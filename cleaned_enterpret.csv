@@ -1,0 +1,799 @@
+,ID,URL,Source,Type,CreatedAt,Language,Record Sentiment,Tracked Keywords,Reasons,Content,Summary,metadata.channel,metadata.msgLink,metadata.Metadata_Context_Salesforce_Account_Account_Fields_Website,metadata.Metadata_ID,metadata.Metadata_Parties_Attendee,metadata.ExternalLink,metadata.ID,metadata.Metadata_Context_Salesforce_Account_Account_Fields_Industry,metadata.Metadata_PrimaryUserName,metadata.Metadata_Parties_Name,metadata.Metadata_Title,metadata.Metadata_Parties_JobTitle,metadata.Metadata_URL,metadata.Metadata_Context_Salesforce_Account_Account_Fields_Name,metadata.Metadata_PrimaryUserID,metadata.LeadSource,metadata.Account_Name,metadata.SystemModstamp,metadata.Subscription_Charges_DCS__c,metadata.CloseDate,metadata.Originating_Contact__r_Name,metadata.LastModifiedDate,metadata.Opportunity_Age__c,metadata.ForecastCategoryName,metadata.HasOpportunityLineItem,metadata.StageName,metadata.LastStageChangeDate,metadata.MRR_DCS__c,metadata.Term_months_DCS__c,metadata.CreatedBy_Name,metadata.Opportunity_Owner_Name__c,metadata.HasOverdueTask,metadata.IsClosed,metadata.IsDeleted,metadata.Owner_Name,metadata.Amount,metadata.RecordType_Name,metadata.IsWon,metadata.ForecastCategory,metadata.LastModifiedBy_Name,metadata.One_time_Charges_DCS__c,metadata.Fiscal,metadata.FiscalQuarter,metadata.PushCount,metadata.Gong__Gong_Count__c,metadata.HasOpenActivity,metadata.Probability,metadata.Follow_Up__c,metadata.Name,metadata.FiscalYear,metadata.CreatedDate,metadata.Metadata_Context_Salesforce_Account_Opportunity_Fields_LeadSource,metadata.Metadata_Context_Salesforce_Account_Opportunity_Fields_Name,metadata.Metadata_Context_Salesforce_Account_Opportunity_Fields_CloseDate_[],metadata.Metadata_Context_Salesforce_Account_Opportunity_Fields_StageName,metadata.Metadata_Context_Salesforce_Account_Opportunity_Fields_Type,metadata.Next_Steps__c,metadata.LastViewedDate,metadata.LastActivityDate,metadata.Opportunity_Notes_DCS__c,metadata.Closed_Lost_Notes__c,metadata.LastReferencedDate,metadata.Next_Step_Date__c,metadata.Metadata_Parties_Context_Salesforce_Account_Lead_Fields_Company,metadata.Sourcing_Rep__r_Name,metadata.Start_Date_DCS__c,metadata.Total_Feedback_Volume_Text__c,metadata.Closed_Won_Acknowledgements__c,metadata.End_Date_DCS__c,metadata.Type,metadata.Feedback_Bank_Type__c,metadata.Post_Title,metadata.Author_Name,metadata.Subreddit,metadata.Post_Author,metadata.Post_URL,metadata.Author_Type,metadata.CreatedAt,metadata.Post_ID,metadata.Author_Flair,metadata.Tags_[],metadata.Author_Tags_[],metadata.Post_Flair,metadata.Total_Feedback_Volume_Call_Recording__c,metadata.Metadata_Summary,metadata.Metadata_CallParticipants_name,metadata.Metadata_PublicURL,metadata.Metadata_Tags_[],metadata.Metadata_CallParticipants_email,metadata.Metadata_Owners_[],metadata.Metadata_EndTime,metadata.Metadata_StartTime,metadata.Influenced_By__c
+0,e0e5cedb-2da1-5476-bfef-366eebc71656,https://dashboard.enterpret.com/enterpretinc/record/e0e5cedb-2da1-5476-bfef-366eebc71656,Slack,RecordTypeConversation,2024-01-12T22:28:45Z,eng,NEGATIVE,,Issue With Decreased Feedback Volume From Sources,"Agent: Mike McNasby jil It looks like the volume of feedback coming from Discord has dropped to zero. The channel for issues and bugs was the primary driver, just wanted to confirm if this was intentional?
+
+","The agent, Mike McNasby, noticed a significant drop in feedback from Discord, particularly in the issues and bugs channel. He inquired if this was an intentional change.",enterpret-descript,https://enterpret.slack.com/archives/C057YQRMXRT/p1705098525299899,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,7396e171-235d-5cd4-af82-7b8d4c70ce76,https://dashboard.enterpret.com/enterpretinc/record/7396e171-235d-5cd4-af82-7b8d4c70ce76,Salesforce - Opportunity,RecordTypeSurvey,2024-01-12T20:57:28Z,eng,NEGATIVE,Feedback,"Issue With Low Volume, Issue With Feedback Going Unnoticed","Closed Lost Notes
+Not enough volume, not enough focus on feedback.
+
+
+",The user reported a loss of interest in Enterpret Inc due to insufficient volume and a perceived lack of attention to feedback.,,,,,,https://enterpret.my.salesforce.com/0068c0000103raaAAA,,,,,,,,,,Outbound,Dick's Sporting Goods,2024-02-06T19:24:13.000+0000,0.0,2024-04-19,Matt Walker,2024-02-06T19:24:13.000+0000,98.0,Omitted,False,Closed Lost,2024-02-06T19:24:13.000+0000,0.0,12.0,Noah Klausman,NoahKlausman,False,True,False,Noah Klausman,50000.0,New Sale/Upsell,False,Omitted,Noah Klausman,0.0,2024 2,2.0,0.0,1.0,False,0.0,False,Dick's Sporting Goods,2024.0,2024-01-12T20:57:28.000+0000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,04cceacf-a9ec-5e41-8eef-b5b6b222f2c0,https://dashboard.enterpret.com/enterpretinc/record/04cceacf-a9ec-5e41-8eef-b5b6b222f2c0,Slack,RecordTypeConversation,2024-01-11T19:28:21Z,eng,NEUTRAL,,Help With Chorus Integration,"Agent: Talked to Creative Force who recently raised Series A. Looking for an integration to Chorus.
+
+","Creative Force, a company that recently raised Series A, is seeking an integration with Chorus, a product of Enterpret Inc.",product-feedback,https://enterpret.slack.com/archives/C0512PJLE4B/p1705001301986039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,37436917-fa93-53ad-96d7-0d4a505a94a1,https://dashboard.enterpret.com/enterpretinc/record/37436917-fa93-53ad-96d7-0d4a505a94a1,Slack,RecordTypeConversation,2024-01-11T17:45:22Z,eng,NEUTRAL,,Help Understand Deleting Customer Data Through Api,"User: Hey Matt Miller does your API have a delete method for a user? This is RE GDPR/CCPA deletion requests
+
+Agent: Anshal Dwivedi What is the best way to handle these kind of requests?
+
+Agent: Hi Matt Miller, we can get the details on what data to be deleted here and open a ticket internally. Alternatively customers can directly send an email to us at <mailto:<EMAIL_ADDRESS>|<EMAIL_ADDRESS>> with subject line `Data Deletion Request | &lt;Customer Name&gt;`, and we process the request with the SLA of 2 working days.
+
+User: there is no programatic way to process a deletion? we use a partner called DataGrail that can automate sending a deletion request to your API (if available), otherwise it will send out the email to your privacy email alias, but it structures the emails in its own way
+
+","The user inquires about Enterpret Inc's API delete method for user data, specifically for GDPR/CCPA deletion requests. The agent suggests two methods for handling such requests, one being through an internal ticket system and the other by direct email. The user suggests a programmatic way of processing deletions, mentioning their partner, DataGrail, which can automate the process if the API is available.",enterpret-boll-and-branch,https://enterpret.slack.com/archives/C04GWNR5THP/p1704995122987479?thread_ts=1704995122.987479&cid=C04GWNR5THP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,2229a40d-99f5-573e-a029-99aa0c50cd4c,https://dashboard.enterpret.com/enterpretinc/record/2229a40d-99f5-573e-a029-99aa0c50cd4c,Slack,RecordTypeConversation,2024-01-10T22:42:40Z,eng,NEGATIVE,"Ai, Dashboard, Quantify, Summary",Issue With Copy Summary To Clipboard Feature Not Working,"User: Jack Divita I keep getting ""Failed to copy summary to clipboard"" when trying to copy the AI summary from a drilled in Quantify from an existing Dashboard. Tried it on various Quantifys and same result. I can get the copy to clipboard button to work within Search
+
+Agent: jil to clarify - this is the button that isnt working for you?
+Does the error persist if you logout and log back in?
+
+","The user, Jack Divita, is experiencing an issue with the ""copy summary to clipboard"" feature in Enterpret Inc. He has tried this feature on various Quantifys and is consistently getting a ""Failed to copy summary to clipboard"" error. The agent, Jil, is trying to clarify the issue and suggests logging out and logging back in to see if the error persists.",enterpret-descript,https://enterpret.slack.com/archives/C057YQRMXRT/p1704926560952539?thread_ts=1704926560.952539&cid=C057YQRMXRT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,99a58dfa-1b35-56ed-8521-092d1b40ba26,https://dashboard.enterpret.com/enterpretinc/record/99a58dfa-1b35-56ed-8521-092d1b40ba26,Slack,RecordTypeConversation,2024-01-10T18:12:54Z,eng,NEGATIVE,"Csv, Data, Survey",issue with csv import not updating all instances,"User: Jack Divita On the topic of being able to manipulate the underlying data (or lack thereof), I ran into an issue where I uploaded updated data for the CSV import: “2023 End of Year Survey” in order to fix records where some dimension values were split due to commas in the original response value (e.g. “An established or aspiring creator*,* working mostly solo”), but not all instances were updated.
+:thread: More details
+
+User: It looks like 37 of the records didn’t get updated and one of the dimension values (for Which of These - Best Describe You?) is still being treated as two separate values (as seen in the screenshot — “An established or aspiring creator” and “working mostly solo” should instead have the value “An established or aspiring creator working mostly solo” and be aggregated with the other records that have that value as I removed the comma from between “creator” and “working” when uploading a new CSV).
+
+","The user, Jack Divita, faced an issue with Enterpret Inc's data manipulation feature. Despite uploading updated data for the CSV import, not all instances were updated and one dimension value was still being treated as two separate values.",enterpret-descript,https://enterpret.slack.com/archives/C057YQRMXRT/p1704910374575529?thread_ts=1704910374.575529&cid=C057YQRMXRT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,4b2c4003-f3f9-5ff3-a647-7487834318df,https://dashboard.enterpret.com/enterpretinc/record/4b2c4003-f3f9-5ff3-a647-7487834318df,Slack,RecordTypeConversation,2024-01-10T14:35:35Z,eng,NEGATIVE,,Issue With Census Sync Feature,"User: hey Matt Miller - our census sync keeps failing and I noticed theres a new required Id field in the field mappings section
+
+Agent: If you select `getcensus_email` in that dropdown, does it work?
+
+User: trying now - wanted to run the changes by you first though to make sure they were expected
+
+User: looks to be working
+
+","The user reported an issue with the census sync feature of Enterpret Inc, specifically mentioning a new required Id field in the field mappings section. The agent suggested a solution of selecting `getcensus_email` in the dropdown, which the user tried and confirmed to be working.",enterpret-boll-and-branch,https://enterpret.slack.com/archives/C04GWNR5THP/p1704897335518269?thread_ts=1704897335.518269&cid=C04GWNR5THP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,7e75d288-a4c7-504b-bc3f-3d75c8375659,https://dashboard.enterpret.com/enterpretinc/record/7e75d288-a4c7-504b-bc3f-3d75c8375659,Slack,RecordTypeConversation,2024-01-10T13:37:57Z,eng,NEGATIVE,"Enterpret, Product Design, Reason","Issue With System Generating Duplicate Reasons, Ability To Save Dashboard View","User: Hi Matt Miller I've noticed that we often get these 'duplicate' reasons where the titles are something like ""issue with [feature]"", ""issue with [feature] on Feeld"" and sometimes also ""issue with [feature] on Feeld app"". I assume this is because Enterpret doesn't know that Feeld is the only product that anyone might be referring to, so it tries to distinguish between customers specifically mentioning Feeld by name vs. just saying there's a problem with the app?
+
+Agent: Hi Louise Sellars, that's correct. We are always working to improve the models so that they can better understand the context in which they are working, but it's not uncommon to have duplicate reasons like this.
+
+User: Thanks Matt
+
+","The user, Louise, points out an issue with Enterpret's system generating duplicate reasons for customer issues related to the Feeld app. The agent, Matt, confirms that this is due to the system's inability to understand the context and assures that they are working on improving it.",enterpret-feeld,https://enterpret.slack.com/archives/C03U5UWP1PV/p1704893877570559?thread_ts=1704893877.570559&cid=C03U5UWP1PV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,68c98ed5-e4ce-520c-8130-ea702e577493,https://dashboard.enterpret.com/enterpretinc/record/68c98ed5-e4ce-520c-8130-ea702e577493,Slack,RecordTypeConversation,2024-01-09T21:28:59Z,eng,NEGATIVE,,Issue With Setting Up Reports,"Agent: Feedback from another prospect (similar to Paired this morning) having issues getting logged out.
+
+User: Vivek Kaushal created a new issue ENG-<ZIP_CODE> User getting unexpectedly logged out
+
+User: We'd start throwing 401 errors 30 days after the sign-in. We can check FS for the error thrown, if any.
+
+Agent: James Murphy, who’s this user?
+
+Agent: <mailto:<EMAIL_ADDRESS>|<EMAIL_ADDRESS>>
+
+Agent: was also mentioned by <mailto:<EMAIL_ADDRESS>|<EMAIL_ADDRESS>> on a separate instance
+
+",The user reports an issue with Enterpret Inc where they are getting unexpectedly logged out and are experiencing 401 errors after 30 days of sign-in. The agent acknowledges the issue and asks for more details about the user.,product-feedback,https://enterpret.slack.com/archives/C0512PJLE4B/p1704835739120369?thread_ts=1704835739.120369&cid=C0512PJLE4B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,b2f42987-3a2e-570a-a316-31b962df9ccc,https://dashboard.enterpret.com/enterpretinc/record/b2f42987-3a2e-570a-a316-31b962df9ccc,Slack,RecordTypeConversation,2024-01-09T19:42:40Z,eng,NEGATIVE,"Channel, Enterpret, Integration, Alerts","Issue With Setting Up Reports, Issue With Notifications Feature Malfunction","User: I'm trying to add an Enterpret bot to the <#C04NDPWJ5D2|> channel, but I'm not able to.
+It looks like somehow the integration doesn't recognize the existence of that channel.
+The channel which is public, so shouldn't require the bot, but I added it anyway, and it still isnt' recognizing the channel.
+Any ideas about how to fix this?
+
+Agent: Molly Jane Nicholas troubleshooting here, can you try adding the Enterpret notifications app to that channel first and then see if it shows up in the Enterpret web app?
+
+User: Yeah unfortunately that's the first fix I tried (I called it ""the bot"" in my original message, but I meant the Enterpret Notifications app) - no luck! Jack Divita
+
+User: Just refreshed and tried again - still not seeing any other channels besides the ones in the screenshot
+
+Agent: raising this with the engineering team, will get back to you when we have an update
+
+Agent: Hey Molly Jane Nicholas, thank you for flagging this. Could you share the name of the Slack channel you were trying to add as plain text?
+We’ll work on our end to unblock you, and investigate what went wrong here. Slack morphs the channel name by default in Slack connects.
+
+User: Ah right. Here's the channel name in plaintext: dev-mode-external-feedback channel
+
+Agent: Thanks Molly Jane Nicholas!
+
+","The user is facing an issue with adding the Enterpret bot to a specific public channel on Slack. Despite trying the Enterpret Notifications app, the user is unable to resolve the issue. The agent has escalated the issue to the engineering team for further investigation.",enterpret-figma,https://enterpret.slack.com/archives/C03RJBY6Q7N/p1704829360215719?thread_ts=1704829360.215719&cid=C03RJBY6Q7N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,2d6b3567-febd-5ec4-81f9-12f4e6e06319,https://dashboard.enterpret.com/enterpretinc/record/2d6b3567-febd-5ec4-81f9-12f4e6e06319,Slack,RecordTypeConversation,2024-01-08T15:22:20Z,eng,NEGATIVE,,Issue With Setting Up Reports,"Agent: Michael Wu Like Hrishi said, we can see the increase in data coming in and it is available to query in the UI
+Here is an example report highlighting the increase in volume. Can you please confirm that these numbers match what you are expecting we should see?
+<<STRICT_LINK>>
+
+Agent: Stephan Pfistner Michael Wu would one of you be the right one to confirm this?
+Cc Michael Nguyen 
+
+User: yeah fixing
+
+User: should work again
+
+Agent: Hey Michael Wu
+Thanks a lot, we are able to query now :raised_hands:
+
+Agent: Michael Wu Like Hrishi said, we can see the increase in data coming in and it is available to query in the UI
+Here is an example report highlighting the increase in volume. Can you please confirm that these numbers match what you are expecting we should see?
+<<STRICT_LINK>>
+
+User: I don't have an existing overview over ticket rates, but based on the scaling factor this seems reasonable.
+
+","The user reported an issue with querying data in the Enterpret Inc UI. After the agent's intervention, the user confirmed that the issue was resolved and they were able to query again. The user also acknowledged the increase in data and expressed satisfaction with the service.",enterpret-figma,https://enterpret.slack.com/archives/C03RJBY6Q7N/p1704460287694429?thread_ts=1704460287.694429&cid=C03RJBY6Q7N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,78a49273-9f92-50be-979b-55d4a1203093,https://dashboard.enterpret.com/enterpretinc/record/78a49273-9f92-50be-979b-55d4a1203093,Slack,RecordTypeConversation,2024-01-06T01:40:39Z,eng,NEGATIVE,"Data, Enterpret","Issue With Engineering Team Review Process, Help Process Feature Requests, Help With Bugs","User: Hi All, I am working on doing a review for our engieering team and running into some issues. I am looking to address these three questions:
+• What feature requests are we receiving for our public API?
+• What bugs / issues users were reporting related to SIEM?
+• What bugs / feature requests related to workspace analytics?
+I am working on the first question now and seem to only receive a limited subset of conversations even when looking back 12 months. Is this expected? How can I better leverage Enterpret for a year’s worth of data? <<STRICT_LINK>>
+
+","The user is facing issues while conducting a review for their engineering team using Enterpret Inc. They are not able to access a year's worth of data and are seeking assistance on how to address feature requests, bugs, and issues related to SIEM and workspace analytics.",enterpret-notion,https://enterpret.slack.com/archives/C01P90H8K1S/p1704505239479759,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,1b562877-5421-5847-b14d-015fe30db8f3,https://dashboard.enterpret.com/enterpretinc/record/1b562877-5421-5847-b14d-015fe30db8f3,Slack,RecordTypeConversation,2024-01-05T15:36:50Z,eng,NEGATIVE,"Customer, Enterpret",Issue With Accessing Individual Accounts,"User: Matt Miller test sync failed - response body message: ""interface conversion: interface {} is nil, not float64""
+
+User: if a lead has no orders I'm guessing revenue is null and causing an issue
+
+User: that's not the issue - the table I'm trying to sync is just customers with at least 1 order
+
+Agent: Anshal Dwivedi Do you have any suggestions here?
+
+User: also changed the created at field to be first order date since these are all customers with orders
+
+Agent: Jeffrey Mullahey Anshal is working on a mitigation – will update you shortly.
+
+Agent: Jeffrey Mullahey Can you retry the test?
+
+User: just kicked it off
+
+User: test sync worked
+
+User: kicked off the full sync and 800k records have been synced - having trouble now accessing my enterpret account to work on linking:
+
+User: keeps spinning on this screen
+
+Agent: This is a known issue right now. Try this link: <<STRICT_LINK>>
+
+User: yep that worked - still just seeing the 2 fields available for linking - might need to wait a little while longer
+
+User: fields are showing up now :+1:
+
+",The user faced issues with syncing and accessing their Enterpret Inc account. The agent suggested a solution for the syncing issue and acknowledged a known issue with account access. The user was able to resolve the syncing issue and reported that the fields for linking are now visible.,enterpret-boll-and-branch,https://enterpret.slack.com/archives/C04GWNR5THP/p1704469010622569?thread_ts=1704469010.622569&cid=C04GWNR5THP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,51934d77-0e81-5c0b-b5ef-d46204e33ecb,https://dashboard.enterpret.com/enterpretinc/record/51934d77-0e81-5c0b-b5ef-d46204e33ecb,Slack,RecordTypeConversation,2024-01-04T16:39:33Z,eng,NEGATIVE,"Customer, Email, Integration",Issue With Census Sync Feature,"Agent: Matheson Kuo can you please add Jeffrey Mullahey to this channel?
+
+Agent: He reached out over Intercom with a question about linking feedback to revenue, which Matt Miller will be able to help coordinate
+
+User: just added!
+
+User: hey Matt Miller - like Jack Divita mentioned I'm trying to link order count and revenue through a customers email address. Currently added a user integration via census http request but I don't think it's working as expected
+
+Agent: Hi Jeffrey Mullahey, welcome to Enterpret! I am looking at the User configuration and am only seeing a couple of fields coming in, so something definitely seems amiss. Here is my calendar – do you want to grab time whenever is good for you and we can debug it live?
+<<STRICT_LINK>>
+
+User: thanks! booked you tomorrow morning :+1:
+
+","The user, Jeffrey Mullahey, is having trouble linking order count and revenue through a customer's email address on Enterpret Inc. He has added a user integration via census HTTP request but it's not working as expected. The agent, Matheson Kuo, has scheduled a live debugging session with the user to resolve the issue.",enterpret-boll-and-branch,https://enterpret.slack.com/archives/C04GWNR5THP/p1704386373098249?thread_ts=1704386373.098249&cid=C04GWNR5THP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,2609cb23-f4a6-5d02-994f-a68617be4892,https://dashboard.enterpret.com/enterpretinc/record/2609cb23-f4a6-5d02-994f-a68617be4892,Slack,RecordTypeConversation,2024-01-04T13:52:36Z,eng,NEGATIVE,"Dashboard, Quantify, Reporting, Category, Data, Filter",Issue With Discrepancy In Data,"Agent: Emily Nicklas Hannah Prieto Manjit Toor How is it going preparing the December support report? Anything I can help with?
+
+User: Planning to work on it today! Will let you know if I need any help. Thanks!
+
+User: Hey Jack Divita I still can’t edit and save changes to the Quantifies on the Dashboard. It will only let me Save as New. Can we get that fixed?
+
+User: I’m also seeing some weird filters or I’m not sure what’s going on. I haven’t even changed the dates yet to be for December, but this is what I’m seeing that’s messing with the data. Why does it say `Success - Category` and `CLM - Category`?
+
+Agent: Emily Nicklas I turned the dashboard into a template, now if you click on the ""+New Dashboard"" button you will see this option. If you create a new dashboard with this template you will have full control and edit access to the charts
+
+Agent: &gt; but this is what I’m seeing that’s messing with the data. Why does it say `Success - Category` and `CLM - Category`?
+This is because this is the technical name of the field coming from Zendesk
+
+User: Thank you for the instructions on creating a new dashboard.
+Re: the other thing, I’m confused, because the field name isn’t matching what the Quantify is about `CLM - Category` is showing as the field, but the Quantify is about `Clickwrap Category`, how did that happen?
+And the data is different from when I pulled the Nov data in December. I know that there are usually a few tickets that get updated, but when I pull the exact same things I pulled last month, with the same exact filters, I get wildly different results.
+For example, I pulled `CLM Top 5 Categories` with Case Reason = Technical Issues for Nov 1-30. Last month’s was screenshot #1, when I pull the same today, I get screenshot #2. And if I change the field from `Success - Category` to `CLM - Category`, it’s even more off (screenshot #3).
+Happy to set up a call to go over these if we need to.
+
+Agent: Emily Nicklas this should not be happening, I suspect that there are mismatching filters at play
+Can we find some time to go through this live together sometime tomorrow? Here is my calendar link if that helps with scheduling: <<STRICT_LINK>>
+
+User: Thanks Jack Divita. Set up a meeting
+
+",The user is facing issues with editing and saving changes to the Quantifies on the Dashboard in Enterpret Inc. They also report discrepancies in the data and confusion about field names. The agent suggests a live session to resolve these issues.,enterpret-ironclad,https://enterpret.slack.com/archives/C03JQE71YK0/p1704376356275129?thread_ts=1704376356.275129&cid=C03JQE71YK0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,6d13c38b-7c87-5379-88da-ac030a8f35c7,https://dashboard.enterpret.com/enterpretinc/record/6d13c38b-7c87-5379-88da-ac030a8f35c7,Salesforce - Opportunity,RecordTypeSurvey,2024-01-03T21:54:25Z,eng,NEGATIVE,"Customer, Customer Contact, Intercom, Tickets",Issue With Low Volume,"Closed Lost Notes
+volume too low (100 intercom tickets per month and some customer calls/user interviews)
+
+
+","The user's feedback for Enterpret Inc is that the volume is too low, which affects their usage of 100 intercom tickets per month and some customer calls/user interviews.",,,,,,https://enterpret.my.salesforce.com/0068c0000103eG2AAI,,,,,,,,,,Outbound,Puzzle,2024-01-10T14:09:42.000+0000,0.0,2024-03-31,Luke Frye,2024-01-10T14:09:42.000+0000,88.0,Omitted,False,Closed Lost,2024-01-10T14:09:42.000+0000,0.0,12.0,Paul Williams,PaulWilliams,False,True,False,Paul Williams,,New Sale/Upsell,False,Omitted,Paul Williams,0.0,2024 1,1.0,0.0,1.0,False,0.0,False,Puzzle,2024.0,2024-01-03T21:54:25.000+0000,,,,,,,,2024-01-10,"getting about 100 support tickets per month
+also doing some calls on fireflies
+challenge is not volume of feedback, but creating a good process for managing it
+expect volume to grow and will revisit in a few months",,,,,Paul Williams,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,a71ff4b1-6791-5f58-abd6-0789871752b6,https://dashboard.enterpret.com/enterpretinc/record/a71ff4b1-6791-5f58-abd6-0789871752b6,Slack,RecordTypeConversation,2024-01-03T17:53:45Z,eng,NEUTRAL,"Data, Enterpret",Help Import Snowflake Data Into Enterpret,"User: Hello all,
+Is it possible to get Enterpret data ingested into SnowFlake? Here is some context on our requirement:
+• We've been using Enterpret to investigate some complex bugs where we can only rely on CS tickets to quantify the issue. 
+• There are many tricky cases where we are missing the user ID on zen desk, so we only have the customer's email to work with. 
+• In that case, we copy the email from the ticket data on Enterpret and look it up on SF to get the User IDs. 
+Let me know if there is a better way, open to any suggestions. Thank you:)
+
+Agent: Hi Heba Madany, we don't have a direct outbound connection from Enterpret to Snowflake, but you can always export feedback data from Enterpret as a csv. Will that get you what you need?
+
+User: Thank you Matt, will give it a try
+
+","The user inquires about the possibility of ingesting Enterpret data into SnowFlake, explaining their current process of using Enterpret to investigate bugs and missing user IDs. The agent suggests exporting feedback data from Enterpret as a csv file as a potential solution. The user agrees to try this method.",enterpret-feeld,https://enterpret.slack.com/archives/C03U5UWP1PV/p1704304425261129?thread_ts=1704304425.261129&cid=C03U5UWP1PV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+114,052af4cf-4203-5cba-9d4d-ebcb4e91453a,https://dashboard.enterpret.com/enterpretinc/record/052af4cf-4203-5cba-9d4d-ebcb4e91453a,Slack,RecordTypeConversation,2024-01-02T17:42:24Z,eng,NEGATIVE,"Label, Tags, Tickets, Admin",Issue With Setting Up Reports,"User: Hey team, 
+Just wanted to verify that all of our tickets are being scanned and tagged? We’ve had an unprecedented volume over the past month and I wanted to check that everything was being labelled as expected :pray<IP>skin-tone-3: 
+
+Agent: Dina Mohammad-Laity We did indeed see very large volumes this past month! And I can see that the rate of tagging is consistent with what we normally see, so only a small number of these records don't have reasons tagged to them.
+
+User: thanks for checking Matt - I see a bunch of zeroes <<STRICT_LINK>> :confused: is something wrong with how we have the report set up?
+
+Agent: Dina Mohammad-Laity We're looking into what happened, but <<STRICT_LINK> Loom> walks through how to quickly fix it – Louise Sellars you'll need to do this since you made the report.
+
+User: Ah - Louise is on leave at the moment, is there no way I can admin-role over it?
+
+Agent: Hm, let us see if we can fix it from our side cc Anshal Dwivedi
+
+User: Hello! I am online, I'll make that change now
+
+User: Oh hey Louise my bad
+
+User: Just made that change for the quantify charts in the 2.0 bug reporting board
+
+Agent: Thank you Louise Sellars! Sorry you had to plug in while OOO
+
+","The user, concerned about the tagging of tickets due to a high volume, noticed an issue with the report setup. The agent, unable to resolve the issue, involved another team member who was on leave. The issue was eventually resolved when the team member came online and made the necessary changes.",enterpret-feeld,https://enterpret.slack.com/archives/C03U5UWP1PV/p1704217344000849?thread_ts=1704217344.000849&cid=C03U5UWP1PV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,38d55524-9263-5bbc-9a89-326469cc5ec4,https://dashboard.enterpret.com/enterpretinc/record/38d55524-9263-5bbc-9a89-326469cc5ec4,Slack,RecordTypeConversation,2024-03-22T15:08:38Z,eng,NEGATIVE,"Category, Feedback, Keyword","Issue With Tracked Keyword Report Functionality, Ability To See Positive And Negative Aspects In Feedback","User: Jack Divita In the attached screenshot, you’ll see a Tracked Keyword report, filtered by Category: Positive. Clicking to see the associated feedback has unexpected results.
+• Expectation: Click *Video* -&gt; See _positive feedback associated with_ *Video (Category: Positive)*
+• Actuality: Click *Video* -&gt; See _feedback associated with term_ *Video (Category: Any)* _&amp; has any_ *Category: Positive* _classification associated with it_
+Is there any work around for this?
+
+User: Nevermind! I figured out the work around - had to have “Show categories enabled” and then the associated feedback was only for positive instances of the term
+
+","The user initially faced an issue with the Tracked Keyword report in Enterpret Inc's product, where the expected results for viewing positive feedback were not met. However, the user later found a workaround by enabling ""Show categories"" to view only the positive instances of the term.",enterpret-descript,https://enterpret.slack.com/archives/C057YQRMXRT/p1711120118908239?thread_ts=1711120118.908239&cid=C057YQRMXRT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+152,dc6215a3-2e97-55a1-b455-d579638c59fc,https://dashboard.enterpret.com/enterpretinc/record/dc6215a3-2e97-55a1-b455-d579638c59fc,Slack,RecordTypeConversation,2024-03-22T15:02:35Z,eng,POSITIVE,," Happy With Consistency Of Chatbot Responses, Praise For Side Menu Chat History Feature","Agent: Louise Sellars The latest version of Wisdom is now live in production for beta users. The chatbot is faster and more consistent in its responses, and we have added a side menu where past chats are stored, like in ChatGPT. You can also share chats with coworkers via link, e.g.: <<STRICT_LINK>>
+
+User: This is great Matt! I'll do some testing before our next call
+
+","The user expresses appreciation for the latest version of Enterpret Inc's product, highlighting the improved speed and consistency of the chatbot's responses, and the new feature of storing past chats in a side menu. The user also plans to test the product further before the next call.",enterpret-feeld,https://enterpret.slack.com/archives/C03U5UWP1PV/p1711119755900689?thread_ts=1711119755.900689&cid=C03U5UWP1PV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+156,cd6134ca-246d-568b-9719-931af87f8d3c,https://dashboard.enterpret.com/enterpretinc/record/cd6134ca-246d-568b-9719-931af87f8d3c,Slack,RecordTypeConversation,2024-03-21T17:23:13Z,eng,NEGATIVE,Taxonomy,Issue With Delayed Taxonomy Updates,"User: Jack Divita Looks like some taxonomy updates I made yesterday are still processing - is that a bug or are they actually still processing?
+
+Agent: Probably a bug, but I’ll look into it and get this taken care of for you 
+
+Agent: Mike McNasby are these still showing up as processing for you?
+
+","The user, Jack Divita, is experiencing an issue with Enterpret Inc where the taxonomy updates he made are still processing. The agent acknowledges the issue and promises to investigate and resolve it.",enterpret-descript,https://enterpret.slack.com/archives/C057YQRMXRT/p1711041793674799?thread_ts=1711041793.674799&cid=C057YQRMXRT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+163,6f366ccd-cdb0-5225-8179-9dc82977a997,https://dashboard.enterpret.com/enterpretinc/record/6f366ccd-cdb0-5225-8179-9dc82977a997,Slack,RecordTypeConversation,2024-03-21T02:11:54Z,eng,NEUTRAL,Alerts,Help Understand Alerts,"User: I’m honestly unsure what these alerts really are and what I should get out of them
+
+Agent: theyre a weekly summary of cancellation and loss reason feedback
+
+Agent: its a way to passively stay up to date on trends without having to log in to Enterpret
+
+","The user is unsure about the purpose of the alerts in Enterpret Inc. The agent explains that the alerts are a weekly summary of cancellation and loss reason feedback, meant to keep the user updated on trends without the need to log in frequently.",enterpret-apollo,https://enterpret.slack.com/archives/C0588RQ5T5E/p1710987114887369?thread_ts=1710987114.887369&cid=C0588RQ5T5E,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+165,18623d20-813f-529c-86df-3f3e5cd86af5,https://dashboard.enterpret.com/enterpretinc/record/18623d20-813f-529c-86df-3f3e5cd86af5,Slack,RecordTypeConversation,2024-03-20T23:06:21Z,eng,NEGATIVE,"Enterpret, Filter, Reason, Tags",Ability To Come Up With Relevant Tags,"User: Kayla Eliaza I’ve found that filtering by contact reason is the most effective for Notion Calendar reports, but we have a lot of dupes of contact reasons in Enterpret which brings the total to over 100 ( you can only select 100 at a time). I would like to be able to select all, but also be certain I’m selecting the right ones. Is there an easy way to clean this up to match the current contact reasons?
+
+Agent: Ellen Minkin Kayla Eliaza is there a mapping from old values to new values?
+
+User: I think I've seen this mapping exist in Zendesk before Jeremy Bui
+
+User: I think a fair number of these are just formatting change (backend tag v cr with one : v two). Jack Divita, can we merge them on our end?
+
+Agent: Im not sure if merging them on your end would solve the problem within Enterpret itself, we would need to update our copy of the records too
+
+User: Kk, we have mapping of backend tags to contact reasons that I can send over but I don’t think it’ll cover everything 
+
+User: Jack Divita I just emailed you <<STRICT_LINK>> google sheet - it's a bit confusing so we may want to go over it on wednesday next week
+
+Agent: sounds good, i am checking to see if there might be other approaches to solve this too
+
+",The user from Enterpret Inc is facing an issue with the Notion Calendar reports due to over 100 duplicate contact reasons in Enterpret. They discuss the possibility of mapping old values to new values and cleaning up the duplicates. The user suggests a solution involving backend tags and contact reasons. They plan to discuss this further in a meeting scheduled for the following week.,enterpret-notion,https://enterpret.slack.com/archives/C01P90H8K1S/p1710975981488899?thread_ts=1710975981.488899&cid=C01P90H8K1S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+166,8d2e6c9c-76e3-5277-921b-13099e94e1f6,https://dashboard.enterpret.com/enterpretinc/record/8d2e6c9c-76e3-5277-921b-13099e94e1f6,Slack,RecordTypeConversation,2024-03-20T22:02:43Z,eng,NEGATIVE,"Data, Email, Product Design",Issue With Poor Data Quality Leading To Cancellation,"User: Hello :wave:,
+ 
+ Here’s a report on: 
+ 
+ :mag: Saved Search: <<STRICT_LINK> | *Weekly Cancelation Flow Summary*>
+ :spiral_calendar_pad: Weekly Report: 13 March 2024 - 20 March 2024 
+ :ballot_box_with_ballot: Feedback Count: 587 Feedback from Apollo's cancellation surveys indicates that users are cancelling their subscriptions due to a variety of reasons, including infrequent use, high subscription costs, poor data quality, and unsatisfactory sales engagement results. Infrequent Use and Time Constraints Users have *Cancelled Due To Infrequent Use* _(161 Records)_ and a lack of time to use the product <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. This is further supported by the label 'Cancelled Due To Lack Of Time' <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. High Subscription Costs Users have reported an *Issue With High Cost Of Subscription* _(87 Records)_ as a reason for cancellation <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. This is further supported by the label 'Issue With Subscription Cancellation Due To Preference For Alternative Product' <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Poor Data Quality Users have reported an *Issue With Data Quality* _(37 Records)_ , leading to high bounce rates and poor data quality <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. This is further supported by the label 'Issue With Bounced Emails' <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Unsatisfactory Sales Engagement Results Users have reported an *Issue With Poor Sales Engagement Results* _(33 Records)_ , leading to cancellation of their Apollo subscriptions <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. This is further supported by the label 'Issue With Low Reply Rates' <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. View Saved Search button
+
+","The user provides a detailed report on the reasons for cancellation of subscriptions at Enterpret Inc, including infrequent use, high subscription costs, poor data quality, and unsatisfactory sales engagement results. The report includes the number of records for each reason and supporting evidence.",enterpret-apollo,https://enterpret.slack.com/archives/C0588RQ5T5E/p1710972163614689,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+167,5ac59a15-dcfd-5c90-85b4-27d89d49ab3c,https://dashboard.enterpret.com/enterpretinc/record/5ac59a15-dcfd-5c90-85b4-27d89d49ab3c,Slack,RecordTypeConversation,2024-03-20T22:02:42Z,eng,NEGATIVE,"Customer, Data, Design, Feedback, Pricing, Product Design","Issue With Data Quality, Unhappy With The Ui","User: Hello :wave:,
+ 
+ Here’s a report on: 
+ 
+ :mag: Saved Search: <<STRICT_LINK> | *Weekly Loss Reasons Flow Summary*>
+ :spiral_calendar_pad: Weekly Report: 12 March 2024 - 20 March 2024 
+ :ballot_box_with_ballot: Feedback Count: 42 The feedback indicates that Apollo is experiencing loss to competitors due to a variety of reasons, including business issues, data quality, and high subscription costs. Users have also expressed dissatisfaction with the user interface and customer self-service. Loss Due to Business Issues and High Subscription Costs Users have reported being *Terminated Due To Customer Business Issues* _(5 Records)_ , such as not having the legal bandwidth to fight a contract <<STRICT_LINK>]> and business issues with Apollo leading to a potential loss <<STRICT_LINK>]> <<STRICT_LINK>]>. Additionally, users have reported an *Issue With High Cost Of Subscription* _(3 Records)_ , leading to a loss to a competitor <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Data Quality Issues Leading to Loss Users have reported an *Issue With Data Quality* _(4 Records)_ , specifically inaccurate, old, or non-working mobile numbers <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. This has led to a *Issue Leading To Loss To Competitor* _(2 Records)_ , with users switching to Zoominfo for its overall better experience <<STRICT_LINK>]>. Loss Due to Not Wanting to Renew Plan Users have *Cancelled Due To Not Wanting To Renew Plan* _(4 Records)_ , with some choosing to switch to Zoominfo <<STRICT_LINK>]> stay on the free plan <<STRICT_LINK>]> or go with another vendor <<STRICT_LINK>]>. This suggests a need for Apollo to review its pricing strategy and consider offering alternatives to Zoominfo <<STRICT_LINK>]>. Dissatisfaction with UI/UX and Customer Self-Service Users have reported an *Issue With Apollo UI / UX* _(1 Records)_ , leading to a decision to discontinue using Apollo <<STRICT_LINK>]>. They also reported an *Issue With Customer Self-Service* _(1 Records)_ , with the product being lost to a competitor due to unspecified 'Business Issues' and the customer self-serving <<STRICT_LINK>]>. View Saved Search button
+
+","The user has provided a detailed report on Enterpret Inc's product, highlighting various reasons for loss to competitors. These include business issues, high subscription costs, data quality issues, dissatisfaction with UI/UX and customer self-service. The report suggests a need for Enterpret Inc to review its pricing strategy, improve data quality, and enhance the user interface and customer self-service to remain competitive.",enterpret-apollo,https://enterpret.slack.com/archives/C0588RQ5T5E/p1710972162463859,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+252,32077b9f-2ef0-592b-9f06-9b42974507a0,https://dashboard.enterpret.com/enterpretinc/record/32077b9f-2ef0-592b-9f06-9b42974507a0,Slack,RecordTypeConversation,2024-04-15T07:03:39Z,eng,NEGATIVE,Feedback,"Issue With Safety, Issue With Scams, Issue With Fake Account Proliferation","User: Hello :wave:,
+ 
+ Here’s a report on: 
+ 
+ :mag: Saved Search: <<STRICT_LINK> | *User Safety*>
+ :spiral_calendar_pad: Weekly Report: 08 April 2024 - 15 April 2024 
+ :ballot_box_with_ballot: Feedback Count: 231 Feedback on Feeld reveals a significant concern with the presence of fake accounts, scams, and safety issues. Users have reported encountering potential scams, fake profiles, and spam accounts, leading to feelings of violation and safety concerns. They have also expressed a strong desire for enhanced safety measures and the ability to manage bots effectively. Concerns with Scams and Fake Accounts Users have reported an *Issue With Feeld Being A Scam* _(10 Records)_ , encountering potential scams where they were asked for money in exchange for a meeting <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. They have also reported an *Issue With Security Concerns In App* _(7 Records)_ , expressing dissatisfaction with the increase in fake profiles and safety concerns <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Additionally, users have reported an *Issue With Spam Accounts* _(5 Records)_ , expressing dissatisfaction with the presence of numerous fake and spam accounts <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Safety and Violation Concerns Users have reported feeling *Issue With Security Concerns In App* _(7 Records)_ , expressing dissatisfaction with the increase in fake profiles and safety concerns <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. They have also reported an *Issue With Feeling Violated On Feeld* _(1 Records)_ , feeling violated and unsafe due to interactions with another user <<STRICT_LINK>]>. Desire for Enhanced Safety Measures Users have expressed a strong desire for the *Ability To Enhance Safety Measures* _(2 Records)_ , suggesting that the platform needs to take more proactive measures to expose and remove unwanted elements such as solicitors, scammers, and catfish <<STRICT_LINK>]>. Need for Effective Bot Management Users have expressed a strong desire for the *Ability To Manage Bots* _(116 Records)_ , reporting issues with the prevalence of fake accounts and bots on the platform <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. They have suggested methods to verify the authenticity of local users and to increase the number of real people while reducing the presence of fake accounts and bots <<STRICT_LINK>]> <<STRICT_LINK>]>. View Saved Search button
+
+","The user has reported significant concerns with Enterpret Inc, particularly with the presence of fake accounts, scams, and safety issues. They have expressed dissatisfaction with the increase in fake profiles and safety concerns, and a desire for enhanced safety measures and effective bot management.",enterpret-feeld,https://enterpret.slack.com/archives/C03U5UWP1PV/p1713164619775669,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+264,4e20dbd4-5434-54f1-b3fb-010bddf29d48,https://dashboard.enterpret.com/enterpretinc/record/4e20dbd4-5434-54f1-b3fb-010bddf29d48,Slack,RecordTypeConversation,2024-04-11T22:00:24Z,eng,NEUTRAL,,Help Get List Of Users For Specific Groups,"Agent: Michael Bartimer saw the Wisdom video and was very curious if the ""give me a list of users"" step actually worked / when we were going to build it. They use Enterpret a lot for user research, so this would be a really helpful feature for them.
+
+Agent: so close - the planning agent understood the request but I think we can't output those metadata columns in the chart yet :thinking_face:
+<<STRICT_LINK>>
+
+Agent: almost got it, wrong source
+
+","The user, Michael Bartimer, expressed interest in a feature for Enterpret Inc. that could provide a list of users. The agent informed him that while the request was understood, the feature is not yet available.",product-feedback,https://enterpret.slack.com/archives/C0512PJLE4B/p1712872824667209?thread_ts=1712872824.667209&cid=C0512PJLE4B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+384,e88a54c1-ac4c-5e39-92e5-86aee667584a,https://dashboard.enterpret.com/enterpretinc/record/e88a54c1-ac4c-5e39-92e5-86aee667584a,Slack,RecordTypeConversation,2024-03-18T08:02:54Z,eng,NEGATIVE,"Chat, Email, Login",Majestic Membership Activation Issues,"User: Hello :wave:,
+ 
+ Here’s a report on: 
+ 
+ :mag: Saved Search: <<STRICT_LINK> | *Weekly bug reporting - Zendesk*>
+ :spiral_calendar_pad: Weekly Report: 11 March 2024 - 18 March 2024 
+ :ballot_box_with_ballot: Feedback Count: 532 The feedback primarily revolves around issues with the chat functionality, Majestic membership activation, and account accessibility on the Feeld app. Users are experiencing difficulties in sending/receiving messages, accessing Majestic features despite payment, and logging into their accounts. Chat Functionality Issues Multiple users have reported an *Issue With Chat Functionality* _(161 Records)_ on the Feeld app. They are unable to send/receive or view messages <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. This issue extends to accessing the main features of the app <<STRICT_LINK>]> <<STRICT_LINK>]>. Majestic Membership Activation Problems Users have reported an *Issue With Majestic Not Activating* _(75 Records)_ on the Feeld app despite having paid for it <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. They are unable to access the Majestic features, messaging, and restoring their Majestic Membership <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Account Accessibility Issues Several users have reported an *Issue With Account Block* _(9 Records)_ on Feeld. They are unable to write to people, access messages, or message their matches. Some users also experienced a loss of matches <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Login Link Reception Problems Multiple users have reported an *Issue With Receiving Login Link* _(7 Records)_ . They are unable to access their Feeld accounts as they are not receiving the login email <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Despite checking the spam folder and changing their email address, the issue remains unresolved <<STRICT_LINK>]>. View Saved Search button
+
+","The user has provided a detailed report on the issues faced by customers of Enterpret Inc's Feeld app. The report highlights problems with the chat functionality, activation of Majestic membership, account accessibility, and receiving the login link. The report includes the number of records for each issue and links to the specific user complaints.",enterpret-feeld,https://enterpret.slack.com/archives/C03U5UWP1PV/p1710748974470169,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+386,614dc79a-c1df-5ecf-8ffa-dc47540e5ff3,https://dashboard.enterpret.com/enterpretinc/record/614dc79a-c1df-5ecf-8ffa-dc47540e5ff3,Slack,RecordTypeConversation,2024-03-17T18:41:33Z,eng,NEUTRAL,"Slack, Alerts, Channel, Integration",Ability To Receive Notifications For Reports On Anomalies,"User: Hey team - is there a slack integration for anomaly reports? I feel like Matt or Jack showed me this before but I'm failing to find it :face_with_spiral_eyes:
+
+User: Specifically I'm looking to have an alert triggered in a slack channel if an anomaly goes over some increased x threshold.
+Thanks!
+
+Agent: Hi Dina Mohammad-Laity - made a quick loom for this...
+
+Agent: <<STRICT_LINK>>
+
+Agent: Matt Miller - maybe we can have one broad anomaly report sent on this shared slack channel on a weekly cadence.
+
+User: Thanks Varun! So helpful as always - thanks for replying over the weekend.
+Louise Sellars can we get a daily anomaly alert set up in a channel which includes Marc, the PMs and Eng Leads pls :pray<IP>skin-tone-3: cc Olaf Vogel
+
+User: Thanks for the video Varun! Dina Mohammad-Laity just testing sending this to my DMs and then will set up in <#C4CP7MKSR|> if it all looks good
+
+User: Thanks Louise! If you think that’s the right spot then great but maybe we could trial initially with a separate channel to avoid accidentally flooding prod-gen with noise? Maybe check with Rich
+
+","The user inquired about a Slack integration for anomaly reports, specifically for triggering alerts in a channel. The agent provided a video resource to assist and suggested a plan for a weekly anomaly report. The user requested a daily anomaly alert and proposed a trial in a separate channel to avoid excessive notifications in the main channel.",enterpret-feeld,https://enterpret.slack.com/archives/C03U5UWP1PV/p1710700893547619?thread_ts=1710700893.547619&cid=C03U5UWP1PV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+393,2bcd495c-91a1-502b-a3ab-07bccc9cb5d3,https://dashboard.enterpret.com/enterpretinc/record/2bcd495c-91a1-502b-a3ab-07bccc9cb5d3,Slack,RecordTypeConversation,2024-03-14T22:42:12Z,eng,NEUTRAL,"Customer, Sentiment, Tickets, Enterpret, Customer Interaction, Survey, Roadmap, Data",Ability To Track Sentiment,"User: hi Jack Divita i was wondering if it was possible to measure the sentiment change within a ticket. for example, does a customer start with negative sentiment but has positive sentiment at the end of a ticket
+
+User: Do we ask for CSAT multiple times within a ticket’s lifecycle? I thought we only ask it when the ticket is closed.
+
+User: nope, we only ask for the CSAT 24 hours after the ticket is solved (for email). twitter tickets will receive the CSAT every time the ticket is solved but we can adjust as needed
+
+User: Nice! Is what enterpret calls “sentiment” different from CSAT? I thought they were the same 
+
+User: i was looking at the customer sentiment throughout the entire ticket, not their CSAT survey. the thought behind this one is that we'd be able to find tickets tickets where the support team turned the customer's interaction around
+
+User: Right. So what Enterpret calls “sentiment” is different from CSAT?
+
+User: Jack Divita please correct me on this but Enterpret User Sentiment analyzes the customer sentiment through the ticket/interaction. ""Satisfaction Rating"" will be the customer's response to the CSAT survey
+
+Agent: &gt; please correct me on this but Enterpret User Sentiment analyzes the customer sentiment through the ticket/interaction. ""Satisfaction Rating"" will be the customer's response to the CSAT survey
+This is exactly correct
+
+User: thanks Jack Divita! do you know if it would also be possible to track the sentiment change within an interaction?
+
+Agent: currently not possible, but this is not the first time we have heard this request. Have raised it with the engineering team and there will be exploration on the feasibility in the coming weeks
+
+User: thanks! if this gets added to the roadmap, can you let us know? this could be a useful metric for us
+
+Agent: definitely!
+Before being added to the roadmap we will likely have some follow up questions on use cases and specific examples. Any additional details/thoughts you can share on those would also be helpful
+
+User: of course, no problem
+• positive -&gt; negative:
+ ◦ does this lead to churn?
+ ◦ are there policies that are causing this change ?
+ ◦ these can also be used to identify coaching opportunities
+• negative -&gt; positive: 
+ ◦ identify tickets where an agent did an good job. can be used to improve training or feedback for the agents
+
+Agent: &gt; • does this lead to churn?
+This one is doable today without analyzing intra-ticket sentiment changes, we just need a little more data from Notion
+
+Agent: Meaning - if you tell me which of your users churned (and when) I can tell you what problems they had before churning and how those compared vs users who have not churned
+This is a VERY common use case today
+
+User: In order to tell you which users have churned (and when), we'd probably have to pull subscription changes in from Stripe, which is managed by my team. Jack Divita, do you have any additional information about how/what you'd need from us to get churn data into Enterpret? I can ask my engineers if they have time for it.
+
+Agent: The only thing I _need_ is something to join it agains the feedback record. For Zendesk it looks like we have user email, unique user ID, workspace ID, external user ID. For Gong we have workspace ID, user ID, and Email. For forethought, all I have is a record ID
+I would also recommend including other additional metadata that might be useful for analysis: sign up date, churn date, churned ARR, number of seats churned, etc.
+
+","The user inquired about measuring sentiment change within a ticket and its difference from CSAT in Enterpret. The agent clarified that Enterpret User Sentiment analyzes the customer sentiment through the ticket/interaction, while ""Satisfaction Rating"" is the customer's response to the CSAT survey. The user suggested tracking sentiment change as a useful metric, and the agent confirmed that it's a feasible feature that could be added to the roadmap. The conversation also discussed the possibility of tracking churn data, with the agent explaining the data needed for analysis.",enterpret-notion,https://enterpret.slack.com/archives/C01P90H8K1S/p1710456132967759?thread_ts=1710456132.967759&cid=C01P90H8K1S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+400,7eec3880-2aaf-5116-8870-06cf31300d5c,https://dashboard.enterpret.com/enterpretinc/record/7eec3880-2aaf-5116-8870-06cf31300d5c,Slack,RecordTypeConversation,2024-03-14T17:04:26Z,eng,NEUTRAL,"Keyword, Reason, Category, Chart, Feedback","Help With Bar Chart Visualization For Feedback Records, Ability To Create Bar Chart With High-Level Categories Already Created, Ability To Group Categories","Agent: Hey Grant Orchard Louise Sellars - Grant just pinged over Intercom saying you two had some questions around building different types of charts for your dashboard. Could you help clarify what you are trying to do?
+cc Matt Miller
+
+User: Sy Dusk ^^
+
+User: Hi hi! I would love to see a bar chart showing the number of feedback records by category. I see that by reason and by tracked keyword are options, but not the higher-level categories
+
+Agent: Hi Sy Dusk, unfortunately this isn't possible at the moment. But this has been requested before so I'll definitely convey your suggestion to the product team. In the meantime, User Sentiment is an imperfect alternative, but is based on the underlying categories so it can be a rough proxy. Here's how it is calculated:
+
+User: Ah I see, thanks for this suggestion.
+
+","The user requested a feature to display a bar chart showing the number of feedback records by category in Enterpret Inc's product. The agent informed the user that this feature is currently not available, but the suggestion will be conveyed to the product team. The agent also suggested using 'User Sentiment' as an alternative in the meantime.",enterpret-feeld,https://enterpret.slack.com/archives/C03U5UWP1PV/p1710435866802189?thread_ts=1710435866.802189&cid=C03U5UWP1PV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+404,3037cb01-1d09-5a0f-8a04-bdc44b5877d7,https://dashboard.enterpret.com/enterpretinc/record/3037cb01-1d09-5a0f-8a04-bdc44b5877d7,Slack,RecordTypeConversation,2024-03-13T22:03:31Z,eng,NEGATIVE,"Customer, Data, Integration, Pricing, Reason, Salesforce",Issue With Data Quality,"User: Hello :wave:,
+ 
+ Here’s a report on: 
+ 
+ :mag: Saved Search: <<STRICT_LINK> | *Weekly Loss Reasons Flow Summary*>
+ :spiral_calendar_pad: Weekly Report: 06 March 2024 - 13 March 2024 
+ :ballot_box_with_ballot: Feedback Count: 37 Feedback on Apollo's 'FileUpload-Loss Reasons' indicates that users are experiencing losses due to business issues and data quality concerns. Additionally, users are seeking better integration with CRM platforms like Salesforce and Hubspot. Losses Due to Business Issues Users have reported losses with Apollo due to *Terminated Due To Customer Business Issues* _(4 Records)_ . The specific reasons for these losses were not detailed <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Data Quality Concerns Users have reported an *Issue With Data Quality* _(2 Records)_ , citing it as a reason for loss. They have suggested Zoho as a potential competitor <<STRICT_LINK>]> and have chosen ZoomInfo over Apollo due to better data quality and competitive pricing <<STRICT_LINK>]>. Need for Better CRM Integration Users have expressed a need for better integration with CRM platforms. They have specifically mentioned a lack of sufficient contact data for small gyms and crossfit locations and have inquired about *Help With Salesforce Integration* _(1 Records)_ <<STRICT_LINK>]>. They have also expressed interest in the *Ability To Integrate With Hubspot* _(1 Records)_ , particularly for data and engagement aspects for multiple use cases <<STRICT_LINK>]>. View Saved Search button
+
+","The user provides a report on Enterpret Inc, detailing feedback from users. The report highlights that users are experiencing losses due to business issues and data quality concerns. They also express a need for better integration with CRM platforms like Salesforce and Hubspot.",enterpret-apollo,https://enterpret.slack.com/archives/C0588RQ5T5E/p1710367411608089,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+405,0dfd7c33-9024-58a8-913f-5c6fcb16df37,https://dashboard.enterpret.com/enterpretinc/record/0dfd7c33-9024-58a8-913f-5c6fcb16df37,Slack,RecordTypeConversation,2024-03-13T22:02:58Z,eng,NEGATIVE,"Data, Email, Product Design","Issue With Poor Data Quality Leading To Cancellation, Issue With High Email Bounce Rates","User: Hello :wave:,
+ 
+ Here’s a report on: 
+ 
+ :mag: Saved Search: <<STRICT_LINK> | *Weekly Cancelation Flow Summary*>
+ :spiral_calendar_pad: Weekly Report: 06 March 2024 - 13 March 2024 
+ :ballot_box_with_ballot: Feedback Count: 635 The feedback from Apollo's cancellation surveys reveals that users are cancelling their subscriptions due to infrequent use, high cost, poor data quality, lack of time, high email bounce rates, poor sales engagement results, low reply rates, and incorrect contact information. Infrequent Use and Difficulty Users have *Cancelled Due To Infrequent Use* _(175 Records)_ and difficulty in using the product <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. A lack of support to learn how to use Apollo has also contributed to cancellations <<STRICT_LINK>]>. High Subscription Cost Users have reported an *Issue With High Cost Of Subscription* _(85 Records)_ , leading to cancellations <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Frustration with the cancellation process has also been expressed <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Poor Data Quality Users have reported an *Issue With Data Quality* _(42 Records)_ , citing poor data quality as a reason for cancellation <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Dissatisfaction with the product's inability to provide various types of information has been expressed <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. High Email Bounce Rates Users have reported an *Issue With Bounced Emails* _(26 Records)_ , mentioning high bounce rates as a reason for cancellation <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. This issue, along with low reply rates, low meeting rates, and low open rates, has led to dissatisfaction <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. View Saved Search button
+
+","The user provides a detailed report on the reasons for cancellation of subscriptions to Enterpret Inc. The report highlights that cancellations are mainly due to infrequent use, high cost, poor data quality, high email bounce rates, and dissatisfaction with the product's performance.",enterpret-apollo,https://enterpret.slack.com/archives/C0588RQ5T5E/p1710367378099939,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+433,ef99611f-8ea4-59e2-80a8-60a577607f1e,https://dashboard.enterpret.com/enterpretinc/record/ef99611f-8ea4-59e2-80a8-60a577607f1e,Slack,RecordTypeConversation,2024-03-11T21:42:40Z,eng,NEUTRAL,"Dashboard, Product Design, Data, Zendesk",Help With Zendesk Integration,"User: hi Jack Divita we're trying to build out more dashboards to provide an analysis of feature requests and bugs for our product team. do you have some time later this week to meet about the best way to set this up?
+
+User: i've listed some times we'll be free
+• thurs 9-10am or 2-2:30pm PST
+• fri 10:30-11am or 1-1:30pm
+
+Agent: just set some time up for thursday
+
+Agent: we can do some prep async too - any additional detail on what you are looking for?
+
+User: thanks! i'm also going to add Elliya Cutler and Kayla Eliaza to the call.
+we have a customer feedback catelog which includes feature requests and bugs about different components in Notion. we'd like to use Enterpret to provide product teams with quantifiable insights and verbatim quotes into these to understand what's more important and impactful to our customers
+
+User: Thanks Jeremy and Jack! More details:
+• we're specifically looking to examine our tickets that are coming in from Zendesk that are type `bug` or `feature request` -- not interested in `general question, stripe action`, or `admin action`.
+• we're also looking to blend our zendesk tickets with gong data, so we can see verbatim customer quotes from both places when looking at a specific contact reason.
+• we have a list of ~200 specific descriptions of Notion product areas (a few examples: synced blocks, the ""wiki"" function, database sorting, page deletion...) and we'd love to map that on top of all of the data we have in enterpret. right now, our engineers use those tags to determine if a specific area of the product is becoming buggier than we have a tolerance for
+
+Agent: amazing - we should be able to do all of this
+&gt; we have a list of ~200 specific descriptions of Notion product areas (a few examples: synced blocks, the ""wiki"" function, database sorting, page deletion...) and we'd love to map that on top of all of the data we have in enterpret.
+would it be possible to share the list ahead of our session?
+
+User: Sure! What's a good format for you?
+
+Agent: whatever's easiest for you - notion/csv/gdoc/slack all work
+
+","The user from Enterpret Inc is seeking assistance to build dashboards for analysis of feature requests and bugs. They want to integrate data from Zendesk and Gong, and have a list of specific descriptions of Notion product areas. The agent confirms that Enterpret can handle all of this and requests the list of descriptions ahead of their session.",enterpret-notion,https://enterpret.slack.com/archives/C01P90H8K1S/p1710193360706499?thread_ts=1710193360.706499&cid=C01P90H8K1S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+436,6c6c99a8-0c1e-5d32-bcf7-b8c98bcb23ff,https://dashboard.enterpret.com/enterpretinc/record/6c6c99a8-0c1e-5d32-bcf7-b8c98bcb23ff,Slack,RecordTypeConversation,2024-03-11T17:03:03Z,eng,NEGATIVE,"Filter, Integration, Jira, Login, Slack","Issue With Integration, Issue With Logging In, Issue With Filtering","User: Hello :wave:,
+ 
+ Here’s a report on: 
+ 
+ :mag: Saved Search: <<STRICT_LINK> | *Complaints*>
+ :spiral_calendar_pad: Weekly Report: 04 March 2024 - 11 March 2024 
+ :ballot_box_with_ballot: Feedback Count: 281 Feedback on Linear's 'issue' category reveals that users are experiencing difficulties with various integrations, uploading images, logging in, creating issues, and using filters. There are also concerns about the complexity of Jira and issues with the Linear app itself. Problems with Integrations Users have reported issues with connecting to GitHub <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> Slack <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> and Sentry <<STRICT_LINK>]> <<STRICT_LINK>]>. These problems range from syncing and setting up integrations to triggering them and creating new issues. There's also an *Issue With Importing From Jira* _(3 Records)_ , with users unable to add a new synchronized project or edit/change the Linear Team <<STRICT_LINK>]> <<STRICT_LINK>]>. Difficulties Uploading Images There's a persistent *Issue With Uploading Images* _(4 Records)_ on Linear <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Despite the support team's follow-ups, the problem seems to persist even after refreshing the app. Login Issues Users have reported an *Issue With Login* _(3 Records)_ to Linear <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Despite attempts on both PC and mobile, and even after following suggested troubleshooting steps, users are unable to log in. Challenges Creating Issues Users have reported an *Issue With Creating Issues* _(3 Records)_ <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. They face difficulties with the issue creation process using Slack and have to resort to the standalone Linear app to create features and bugs. Limitations with Filters Users have reported an *Issue With Filters* _(2 Records)_ <<STRICT_LINK>]> <<STRICT_LINK>]>. They find limitations in filtering and configuring the board for different components and have difficulty with combined filters. Complexity of Jira Users have reported an *Issue With Jira Being Complex* _(2 Records)_ <<STRICT_LINK>]> <<STRICT_LINK>]>. They find it inefficient in managing projects and access rights and express a preference for GitHub issues. Issues with Linear App Users have reported an *Issue With Linear App* _(3 Records)_ <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. They face persistent problems with Linear despite refreshing the local database and not using any proxy or VPN. View Saved Search button
+
+Agent: Brian Hendery sarah barnekow We have updated our Slack summary format to improve the quantification and bring it in line with what is now in the tool. Would love to hear your thoughts on this! And it could be a good time to give this another try to see if it's a useful tool. I set up a general search on complaints for this example. (And Brian, the ""gold nuggets"" language that you didn't like is also gone :sweat_smile:)
+
+","The user reports several issues with Enterpret Inc's product, including problems with various integrations (GitHub, Slack, Sentry), uploading images, logging in, creating issues, and using filters. Users also find Jira too complex and have issues with the Linear app itself. The agent acknowledges the feedback and suggests trying the updated Slack summary format.",enterpret-linear,https://enterpret.slack.com/archives/C05DXLQCQN8/p1710176583981229?thread_ts=1710176583.981229&cid=C05DXLQCQN8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+440,fce48694-90d5-55b4-8d02-931529bb1e89,https://dashboard.enterpret.com/enterpretinc/record/fce48694-90d5-55b4-8d02-931529bb1e89,Slack,RecordTypeConversation,2024-03-11T07:02:55Z,eng,NEGATIVE,Filter,"Issue With Fake Account Proliferation, Issue With Safety","User: Hello :wave:,
+ 
+ Here’s a report on: 
+ 
+ :mag: Saved Search: <<STRICT_LINK> | *User Safety*>
+ :spiral_calendar_pad: Weekly Report: 04 March 2024 - 11 March 2024 
+ :ballot_box_with_ballot: Feedback Count: 159 The feedback for Feeld reveals concerns about the prevalence of fake accounts, bots, and spam, leading to safety and security issues. Users have also reported instances of harassment and flagged photos. Suggestions for improvement include better profile verification, improved app performance, and a feedback section for users to share their thoughts. Prevalence of Fake Accounts and Profiles Users have reported an *Issue With Fake Accounts And Profiles* _(34 Records)_ . They have experienced numerous fake profiles that cannot be filtered out <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> and encountered scam accounts requesting explicit content and videos <<STRICT_LINK>]>. Users suggest improved app performance and profile verification to address these issues <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Safety and Security Concerns Users have reported an *Issue With Security And Safety Concerns In App* _(3 Records)_ . They have expressed concerns about being charged for a subscription despite deleting their account due to safety concerns <<STRICT_LINK>]> and suggested that the app may have security issues and amateur programming <<STRICT_LINK>]>. Harassment and Flagged Photos Users have reported serious *Issue With Being Harassed By Other User* _(2 Records)_ . They have experienced harassment, potential blackmail, and threats of sharing their private images online <<STRICT_LINK>]> <<STRICT_LINK>]>. Additionally, users have reported an *Issue With Photo Being Flagged* _(3 Records)_ and are unable to delete the flagged photos from the site <<STRICT_LINK>]> <<STRICT_LINK>]>. Bots and Spam Accounts Users have reported an *Issue With Bots* _(6 Records)_ and an *Issue With Spam Accounts* _(2 Records)_ . They have expressed frustration over the prevalence of bots <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> and dissatisfaction with the prevalence of spam accounts and spam messages <<STRICT_LINK>]> <<STRICT_LINK>]>. Users suggest that Feeld should improve its process for removing bot and Spam Accounts <<STRICT_LINK>]> <<STRICT_LINK>]>. View Saved Search button
+
+User: Noor Salama I think this report is in a state where it would be useful to those in one of the member-care channels, what do you think about setting this to automatically share in that space too?
+
+User: YES - let me think about the best channel for this 
+
+","The user reports several issues with Enterpret Inc's product, Feeld, including the prevalence of fake accounts, safety and security concerns, harassment, flagged photos, and spam accounts. The user suggests improvements in profile verification, app performance, and the process for removing bot and spam accounts.",enterpret-feeld,https://enterpret.slack.com/archives/C03U5UWP1PV/p1710140575133469?thread_ts=1710140575.133469&cid=C03U5UWP1PV,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+456,2ca2776b-2e5b-5dc6-a352-32da97677e3e,https://dashboard.enterpret.com/enterpretinc/record/2ca2776b-2e5b-5dc6-a352-32da97677e3e,Slack,RecordTypeConversation,2024-03-07T02:03:54Z,eng,NEUTRAL,"Enterpret, Reason",Help Merge Reasons,"User: Hey Jack! Wondering when it makes sense to ""merge"" reasons -- doing some exploration of users who have accidentally added members to their plans and Enterpret has auto-created a huge amount of reasons, all with very slightly different names.
+
+Agent: Will share a more detailed guide on this later this week (something I happen to be working on right now anyways)
+But in general, if you feel the reasons are too similar then I would recommend you go ahead and merge them. Merging is a powerful tool that makes the product better for everyone
+
+","The user inquires about the process of merging reasons in Enterpret, as the product has auto-created a large number of reasons with very similar names. The agent acknowledges the issue and suggests that if the user feels the reasons are too similar, they should go ahead and merge them, as it is a powerful tool that improves the product.",enterpret-notion,https://enterpret.slack.com/archives/C01P90H8K1S/p1709777034591669?thread_ts=1709777034.591669&cid=C01P90H8K1S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+458,899bc18e-1fd6-54b1-8328-87def0c21022,https://dashboard.enterpret.com/enterpretinc/record/899bc18e-1fd6-54b1-8328-87def0c21022,Slack,RecordTypeConversation,2024-03-06T22:02:49Z,eng,NEGATIVE,"Data, Email",Issue With Poor Data Quality Leading To Cancellation,"User: Hello :wave:,
+ 
+ Here’s a report on: 
+ 
+ :mag: Saved Search: <<STRICT_LINK> | *Weekly Cancelation Flow Summary*>
+ :spiral_calendar_pad: Weekly Report: 28 February 2024 - 06 March 2024 
+ :ballot_box_with_ballot: Feedback Count: 680 The feedback from Apollo's cancellation surveys reveals that users are cancelling their subscriptions due to infrequent use, high cost, poor data quality, and unsatisfactory sales engagement results. Additionally, users have reported issues with bounced emails, incorrect contacts, and low reply rates. Infrequent Use Leading to Cancellation Several users have *Cancelled Due To Infrequent Use* _(184 Records)_ of the Apollo subscription. They cited reasons such as not using it enough and finding it too hard to use <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. A lack of time was also mentioned as a contributing factor to the cancellation <<STRICT_LINK>]>. High Cost of Subscription Multiple users have reported an *Issue With High Cost Of Subscription* _(109 Records)_ , leading them to cancel their service with Apollo <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Some users also expressed dissatisfaction with the lack of good leads, which reportedly led to a decrease in business revenue <<STRICT_LINK>]>. Poor Data Quality Multiple users have reported an *Issue With Data Quality* _(56 Records)_ as the reason for cancelling their service with Apollo. Specific issues mentioned include high bounce rates, low coverage for their Ideal Customer Profile (ICP), inability to obtain mobiles or direct phone numbers for contacts, and incorrect mobile numbers <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. Unsatisfactory Sales Engagement Results Users have reported an *Issue With Poor Sales Engagement Results* _(33 Records)_ , specifically mentioning low reply rates, low open rates, low meeting rates, and high bounce rates <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. They also expressed dissatisfaction with the sales engagement tools, such as sequences and dialer, which produced poor results <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]> <<STRICT_LINK>]>. View Saved Search button
+
+","The user provides a detailed report on the feedback received from Apollo's cancellation surveys. The main reasons for cancellation include infrequent use, high cost, poor data quality, and unsatisfactory sales engagement results. The report also highlights specific issues mentioned by the users under each category.",enterpret-apollo,https://enterpret.slack.com/archives/C0588RQ5T5E/p1709762569597379,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+478,2b0fb306-310c-52ae-8753-a465e09cf6d7,https://dashboard.enterpret.com/enterpretinc/record/2b0fb306-310c-52ae-8753-a465e09cf6d7,Slack,RecordTypeConversation,2024-03-05T18:24:37Z,eng,NEGATIVE,"Admin, Feedback, Reason, Customer",Happy With The Taxonomy,"Agent: Tanner Hopkins Clint How is everything going with Enterpret? Do you want to jump on a call to run through any current projects where we can support?
+
+User: Hey Matt! Thanks for checking in. We are still facing challenges with the admin needed to clean up reasons. A PM sent me a message yesterday about a reason that's still tracking new feedback records even though it's out of date. It's getting to the point where they are becoming turned off from the reports being sent to them because the reasons are off.
+As we've talked about before, we don't have the administrative time to clean them up. :disappointed:
+
+Agent: &gt; a reason that's still tracking new feedback records even though it's out of date
+Tanner Hopkins Can you share more about this?
+
+User: Yeah, we have a reason associated with customers who want a mobile app. Well, we have a mobile app, but feedback is still getting assigned to it even though we have a mobile app.
+
+Agent: Hi Tanner Hopkins, got it. Here is what is happening – the reason `Ability To Have A Mobile App` has a few different definitions that have wrongly been grouped together. I will clean this up and move the incorrect ones elsewhere. We are actually working on some automated approaches to detect issues like this, since it is emerging as an issue for many customers. cc Arnav Sharma
+
+User: Thanks! Yeah, I know how to clean it up, but thinking more broadly, this is just one example of many reasons that are wrong/out of date that require a lot of time to maintain, as we've talked about before.
+
+Agent: Yeah, makes sense. We feel your pain and are hoping to make the taxonomy management process a lot easier soon!
+
+User: I love to hear that!
+
+","The user is facing challenges with outdated reasons in Enterpret, which are tracking new feedback records erroneously. This issue is leading to dissatisfaction with the reports. The agent acknowledges the problem and informs the user about their ongoing work on automated approaches to detect and resolve such issues. The user appreciates the efforts and looks forward to an improved taxonomy management process.",enterpret-gather,https://enterpret.slack.com/archives/C044PMLGGCB/p1709663077202729?thread_ts=1709663077.202729&cid=C044PMLGGCB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+497,ed122a43-44da-544e-b635-8cb82fe5ab05,https://dashboard.enterpret.com/enterpretinc/record/ed122a43-44da-544e-b635-8cb82fe5ab05,Slack,RecordTypeConversation,2024-03-01T21:11:19Z,eng,NEGATIVE,"Feedback, Grain",Ability To Centralize Feedback,"User: Jack Divita Quotes from Grain videos are no longer showing up in the popover feedback cards
+
+Agent: looks like a bug, have raised with the team
+
+","The user reports an issue with Enterpret Inc's product, where quotes from Grain videos are not appearing in the popover feedback cards. The agent acknowledges it as a bug and has escalated it to the team for resolution.",enterpret-descript,https://enterpret.slack.com/archives/C057YQRMXRT/p1709327479778289?thread_ts=1709327479.778289&cid=C057YQRMXRT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+513,765c927c-1e01-5d49-94e8-9884a0dc6131,https://dashboard.enterpret.com/enterpretinc/record/765c927c-1e01-5d49-94e8-9884a0dc6131,Slack,RecordTypeConversation,2024-02-29T17:28:59Z,eng,NEUTRAL,Enterpret,Help Understand Product,"User: Micheal Danbom excited to help you get started on Enterpret. Also want to introduce you to Jack Divita who leads customer success at Enterpret is my :rock: in helping other folks get the most value out of the platform. They've been working super close with a bunch of team, support included so he's a great person for in-depth questions and consultations.
+
+User: Thanks Michael Nguyen! And :wav<IP>skin-tone-3: Jack Divita!
+
+Agent: Hey Micheal Danbom nice to be connected with you!
+I'd be happy to help get you up and running on the platform. Do you have any initial questions as you are getting started?
+Happy to setup some time to walk through together if thats helpful, here is a link to my calendar where you can book some time directly: <<STRICT_LINK>>
+
+User: Thank you Jack Divita, appreciate the offer! I just got access but haven't explored it yet, but will likely set up some time with you once I'm using it and start building questions.
+
+Agent: Here is a 10 minute video to help as you are getting started, this will cover all of the basic use cases and mechanics as you are getting started
+<<STRICT_LINK>>
+
+",The user expresses interest in getting started with Enterpret and appreciates the agent's offer for help. The agent provides a video resource for the user to understand the basic use cases and mechanics of the platform.,enterpret-figma,https://enterpret.slack.com/archives/C03RJBY6Q7N/p1709227739349629?thread_ts=1709227739.349629&cid=C03RJBY6Q7N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+572,dbe439c0-9530-5976-8318-3fc06b10bd1b,https://dashboard.enterpret.com/enterpretinc/record/dbe439c0-9530-5976-8318-3fc06b10bd1b,Slack,RecordTypeConversation,2024-02-23T16:34:53Z,eng,NEGATIVE,,Unhappy With The Pricing Of The Tool,"Agent: Hey team- please find some feedback from Float. Will add the gong call in the replys:
+thanks for your understanding on the call — looking forward to staying in touch.
+Here’s some of our team’s verbatims from the trial:
+&gt; Here’s my early thoughts + questions on Enterpret as I’m going through:
+&gt; • So it pulls and creates summaries from our customer feedback channels based on keywords we specifically tag? Or can it tag automatically based on the nature of customer feedback. e.g. if we’re not tracking “agency” or “billable hours”, it can still search + create a summary based on that? Pretty powerful if so. EDIT: It can, that’s awesome! This feature alone will solidify &amp; finalise my agency positioning work :raised_hands<IP>skin-tone-5:
+&gt; • I love that the feedback summary can be created based on feedback from a specific time period. Last 3 months is the perfect preset for what I’m working on.
+&gt; • The sentiment analysis is brilliant too - being able to see + filter based on this is very helpful for answering questions about why people did or didn’t switch to Float / how we’re currently serving a particular group.
+&gt; • Email subscription is a great win too, as it’ll help centralise insights in a given period in one place; so I can share them internally
+&gt; 
+&gt; 
+&gt; 
+&gt; 
+&gt; Curious to learn about its analytics and reporting capabilities + how confident do we feel we can trust the data and summaries it provides us. Especially if we’re going to be making key big product x marketing bets from this.
+&gt; • Quantify = Sum of MRR x feedback reason = This is gold! Showing the MRR impact/churn from each feedback reason is powerful; enables us to build better features x marketing that serves our best fit customers.
+&gt; • Segmentation is a key component here though, would like to see how far we can drill into each reason and split it by market, segment, use case, MRR etc.
+&gt; 
+&gt; 
+&gt; 
+&gt; 
+&gt; Overall, I think it’s better than what we have for sure, based on it’s centralised customer feedback analysis features. Unsure how much it costs, but I imagine it’s a low-to-mid 5-figure ACV product, based on the functionality on show here.
+&gt; 
+&gt; Questions to ask here to move forward from my perspective:
+&gt; • Does it require someone to manually feed the model every week to continue getting good results. e.g. building the taxonomy and merging reasons into perpetuity etc seems like a time-consuming job for a poor soul :sweat_smile:
+&gt; • How can we use it to help inform our product x PMM OKRs, like Figma did at company level?
+&gt; • For queries that are hyper-specific and new: e.g. time-zones etc, the data &amp; summaries it provides will certainly be more surface-level compared to items around billing, allocations, other core product features
+&gt; • Can this be replicated with a CustomGPT from Open AI? Could we feed it all our data and have it spit out what we need?
+&gt; 
+&gt; 
+&gt; 
+&gt; 
+&gt; Other than that, I think it’s very powerful - we just need to set it up right.
+&gt; The Summary inevitably end-up me wanting to know more.
+&gt; 
+&gt; Example:
+&gt; • Issue with adding Project Dates
+&gt; The summary returned:
+&gt; The feedback on Float indicates that users are experiencing difficulties when trying to add start and end dates to their projects.
+&gt; • *Confusion Over Adding Project Dates*: Users have reported an *Issue With Adding Project Dates*
+&gt; ◦ They are unsure about how to find and set the start and end dates for their projects
+&gt; ◦ This confusion is prevalent among users, leading to difficulties in project management.
+&gt; 
+&gt; 
+&gt; Which, is fine but of course gives me no context as to why or what they are trying to achieve.
+&gt; But, I was also a little surprised to see only *2 FeedBack Records (over 12mth period)* :thinking_face:
+&gt; 
+&gt; I do like that it pulls in Community Slack records - would this act as a permanent store for this data? (that alone could be worth the cost)
+&gt; 
+&gt; Over in Quantify:
+&gt; I tried filtering on Keywords like ‘Google calendar’ and ‘API’ - all <<STRICT_LINK> saw was a lot of support conversations>, which are not particularly useful to me.
+&gt; 
+&gt; I’m still left wondering if our numbers are too small to be meaningful, I’m concerned the ‘Summary’ statements are confidently expressed based on 1 or 2 pieces of feedback.
+&gt; 
+&gt; Also, not really sure how this ties into a Feature Request system. There’s something appealing to me to know we have requests logged somewhere, ideally with some Product thinking notes jotted down but crucially with some verbatim comments from customers. If this is going to reinterpret the results everytime and pull out maybe that’s a good thing but it’s going to be hard to grasp what a ‘request’ is.
+&gt; I’m impressed with the concept of searching for terms and then being able to filter results to get to a data set that you can then dig into. If we are searching on the full range of user feedback from all tools as it looks to be that’s very powerful and a huge timesaver right there.
+&gt; 
+&gt; My main concerns are:
+&gt; • Confidence that we are searching all data sources and not missing anything
+&gt; • Confidence that the AI is interpreting feedback as we would. I found that when I put a csv of user feedback through ChatGPT (for rates) and asked it to group the themes and tally them it struggled to do this as well as one of us would. It was likely lacking a lot of context around the terms we use for the app, industry terms and then oftentimes a word means something different in the sentence because resource, planning, calendar.. they can all be applied in very different contexts.
+&gt; • LOE to keep it well fed with data and context. Who owns this?
+&gt; • How it connects to feature requests.
+&gt; 
+&gt; 
+&gt; On the last point, connecting to feature requests, could we import our feature requests list from Linear and then have the AI link any relevant feedback to each request in Enterpret? Then we could pull up a feature request in Enterpret and see all the related user feedback including the customers that have requested it. If we can then dismiss inaccurate links, presumably the model can improve at making good connections?
+&gt; 
+&gt; Would be pretty cool if that is integrated so person adds a feature request in Linear, Enterpret auto-links all relevant user feedback to the request (in Enterpret), then it’s all their ready when we evaluate the request.
+&gt; Looks pretty slick! I was looking for feedback related to Placeholders yesterday and it was very helpful.
+&gt; • It’s great you can open Intercom &amp; Gong conversations and have the relevant conversation part immediately available
+&gt; • It did seem like we need to do some gardening/add some data sources but I’m very impressed seeing this v1 experience
+&gt; • The ability to search and filter by sentiment, customer/company attributes (like MRR), is huuuuuuge :raised_hands:
+&gt; • Importing everything seems to create some noise (e.g. I don’t need to see all the feedback about payment declines) but it looks like we can filter that out and create dashboards ourselves
+&gt; ◦ It looks like it’s importing Intercom conversation tags which we could use to setup a process with CS to help here
+
+
+Agent: <<STRICT_LINK>>
+
+","The user provides detailed feedback on Enterpret's features, including its ability to create summaries from customer feedback, sentiment analysis, and email subscription. The user appreciates the product's potential for agency positioning and its impact on product and marketing strategies. However, the user also raises concerns about the product's cost, the need for manual feeding of the model, the surface-level nature of some data, and the AI's interpretation of feedback. The user suggests improvements such as better segmentation, more frequent feeding of the model, and integration with Linear for feature requests.",product-feedback,https://enterpret.slack.com/archives/C0512PJLE4B/p1708706093569519?thread_ts=1708706093.569519&cid=C0512PJLE4B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+628,0cfeab07-1a1a-5897-8365-fced72925613,https://dashboard.enterpret.com/enterpretinc/record/0cfeab07-1a1a-5897-8365-fced72925613,Slack,RecordTypeConversation,2024-02-15T00:28:45Z,eng,NEUTRAL,Data,Issue With Setting Up Reports,"User: hi Jack Divita we've connected Gong to Enterpret. it looks like it's ingesting the data but let me know if you see any issues on your end
+
+Agent: Amazing! Should be good to go in a couple of hours, but I'll keep an eye on it
+
+Agent: You can see these are flowing in and you can start to analyze them in the dashboard starting today!
+
+User: awesome! thanks Jack Divita! can you help create an example of what's the best way we can get the most of the Gong data?
+
+",The user informs the agent about connecting Gong to Enterpret and the agent confirms that the data is being ingested. The agent assures the user that they can start analyzing the data in the dashboard from that day. The user appreciates the service and seeks assistance on how to maximize the use of Gong data.,enterpret-notion,https://enterpret.slack.com/archives/C01P90H8K1S/p1707956925199769?thread_ts=1707956925.199769&cid=C01P90H8K1S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+629,e0272834-674e-58bf-97ed-60099bf4b4b9,https://dashboard.enterpret.com/enterpretinc/record/e0272834-674e-58bf-97ed-60099bf4b4b9,Slack,RecordTypeConversation,2024-02-14T23:53:54Z,eng,NEGATIVE,"Csv, Customer, Data, Export, Filter, Tickets",Issue With Filtering,"User: Jack Divita, I'm finding an issue with the filters and meta data which might be a bug. (kinda urgent)
+I'm helping Heath Rogers and Norman Lemke find dev mode tickets for the last week, filtered by plan type or paid tier. AKA, what customers are writing in request a cancel.
+I'm not seeing any unified of source meta data fields that I can filter on for paid status, even though it's flowing through when I look at the meta date on a specific ticket and in the CSV exports. Here's a quick and dirty video.
+
+Agent: checking
+
+User: but Heath Rogers figured out if you just type ""max paid"" it shows up...
+
+Agent: looks like a bug, but shouldnt be a blocker
+
+Agent: ^ yes this
+
+Agent: not sure why its not showing up in the UI when you click that section - I am raising that with my engineering team. But if you search the terms from the query builder it will show up
+
+User: ok. not urgent. but also means we need to do a clean up and better mapping of our metadata. This is related to the proposed changes that Madison Kohls is proposing.
+
+Agent: Looking a little medium term. We are actively working on some improvements to the unified fields which should be live in the coming weeks, that will help with this. Could also be an opportunity to sync the user/account level metadata (not just feedback data)
+
+","The user, Jack Divita, reports an issue with the filters and metadata in Enterpret Inc, which he believes might be a bug. The agent acknowledges the issue and suggests a temporary solution. The user also suggests a clean-up and better mapping of metadata, which the agent agrees with and informs about upcoming improvements to the unified fields.",enterpret-figma,https://enterpret.slack.com/archives/C03RJBY6Q7N/p1707954834909019?thread_ts=1707954834.909019&cid=C03RJBY6Q7N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+698,3d430378-32ee-5761-9f16-bc06e902c4ef,https://dashboard.enterpret.com/enterpretinc/record/3d430378-32ee-5761-9f16-bc06e902c4ef,Slack,RecordTypeConversation,2024-02-06T17:09:50Z,eng,NEUTRAL,,"Ability To Integrate With Instagram, Ability To Have Direct Integration With Facebook","Agent: Samsung Food is probably going to set up the Facebook Pages integration, but what they really want is Instagram: to ingest comments on posts + DMs
+
+","The user, Samsung Food, is interested in setting up the Facebook Pages integration with Enterpret Inc and also wants Instagram to ingest comments on posts and direct messages.",product-feedback,https://enterpret.slack.com/archives/C0512PJLE4B/p1707239390171439,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+704,9c2eb2a3-9c99-5c90-bf5f-7dffbc9144cd,https://dashboard.enterpret.com/enterpretinc/record/9c2eb2a3-9c99-5c90-bf5f-7dffbc9144cd,Slack,RecordTypeConversation,2024-02-06T10:23:47Z,eng,NEGATIVE,"Enterpret, Taxonomy, Reporting, Search",Issue With Setting Up Reports,"User: I was checking some stuff in Enterpret yesterday and whilst trying to fill a report related to Config (Jack, Config is a Figma conference), I noticed that most results were related to ""configuration"". Any recommendations on how we can exclude those other than the manual approach? Perhaps we need to add that to the taxonomy a bit more clearly?
+
+User: Are you using the tracked keywords or just general text search?
+
+User: both
+
+Agent: Molly Jane Nicholas did a bunch of reporting on Config this summer, so looping her in as well.
+Inês Lebres can you be more specific on what you are looking for? Are you curious about how people are reacting to the conference itself, or to the products announced at the conference?
+Depending on the goal, that would probably influence how you setup the filters and what time frame of feedback you would want to look at
+
+User: (in a conference so limited in responses for now but will check in later)Vivek Kaushal I also wonder if it makes sense to add Inês Lebres to the chatbot beta?
+
+","The user faced an issue with Enterpret's report filling feature, where most results were related to ""configuration"" instead of the Figma conference ""Config"". The user suggested improving the taxonomy to avoid such issues. The agent asked for more specific details about the user's query to provide better assistance.",enterpret-figma,https://enterpret.slack.com/archives/C03RJBY6Q7N/p1707215027322629?thread_ts=1707215027.322629&cid=C03RJBY6Q7N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+718,e587ad03-6819-57b4-8bbe-5997a614b00d,https://dashboard.enterpret.com/enterpretinc/record/e587ad03-6819-57b4-8bbe-5997a614b00d,Slack,RecordTypeConversation,2024-02-02T18:11:54Z,eng,NEUTRAL,Taxonomy,Help Manage Taxonomy,"Agent: Hi Mitch Louie Julia Bendix following up from our conversation on Monday with my proposed next steps for our partnership together
+• Fine tune taxonomy for more granular and actionable outputs
+ ◦ Now that the taxonomy is fully customizable I recommend we follow a thorough and systematic approach by tackling key areas one by one sequentially. I am happy to help put in work on this front to help guide, but I cannot be the one making the tactical decisions on reason definitions
+ ▪︎ I will never know your business and your priorities as well as you all. Who would be best for me to work with on this front? Mitch Louie should this be me and you?
+• Nail down core use cases
+ ◦ Manjit Toor I want your monthly support summaries to be as automated as possible. Using this template should get you 90% of the way there, do you agree?
+ ▪︎ <<STRICT_LINK>>
+• Expand to more core use cases
+ ◦ Julia Bendix I know there are other executive reports outside of monthly support tickets that you were hoping to be sharing. Can you share some examples of what those might be?
+• Expand to decentralized insight production
+ ◦ At our other customers we have seen VOC have a lot of success by sponsoring dedicated Enterpret training sessions with product, support, and operations stakeholders (anyone who might have some use for customer feedback in their day to day). We spend 45 minutes together and by the end of it people know how to create their own reports and find their own insights
+ ◦ I think we should be aiming to start running sessions like these by late February/early March when we have spent some more time fine tuning the taxonomy
+ ▪︎ Julia Bendix How do you feel about that timeline? Any initial thoughts on who some of these teams who might benefit most from using feedback first hand would be?
+
+User: Re: Taxonomy fine tuning - yep that would be me. Fred Kang would you or anyone on your team like to be involved?
+
+User: Mitch Louie yep we can start with me and i can pull people in as necessary
+
+Agent: Is there a time that works well for you two to have a working session next week?
+Perhaps sometime Tuesday between 8-11 pacific time?
+
+","The agent from Enterpret Inc follows up on a partnership proposal, suggesting steps for taxonomy fine-tuning, core use case identification, expansion to more core use cases, and decentralized insight production. The user agrees to be involved in the taxonomy fine-tuning and suggests involving Fred Kang. A working session is scheduled for the following week.",enterpret-ironclad,https://enterpret.slack.com/archives/C03JQE71YK0/p1706897514168329?thread_ts=1706897514.168329&cid=C03JQE71YK0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+725,db80339d-c204-5647-8f81-ceba0a8bc6f0,https://dashboard.enterpret.com/enterpretinc/record/db80339d-c204-5647-8f81-ceba0a8bc6f0,Slack,RecordTypeConversation,2024-02-01T17:29:59Z,eng,NEUTRAL,,Ability To Integrate With Calendar,"User: Hi Heath Rogers, let's start a thread to schedule some Enterpret workshops for the support analytics folks! cc: Jack Divita
+
+Agent: Heath Rogers Excited to get you and the team going! We can move pretty quickly regarding training (especially knowing that you have reports due on the 9th)
+Are there any times that work well for you and your team tomorrow or early next week?
+If it is helpful, here is a link to my calendar where you can book some time directly too: <<STRICT_LINK>>
+
+User: Awesome, I'm looking forward to it. I'm working on gathering a group of folks and will circle back here soon!
+
+User: Jack Divita I'll go ahead and use Calendly to get it set up
+
+Agent: Awesome. Let me know if there aren’t any times available that work and I can move things around 
+
+User: One thing Jack Divita - can you rename the calendar event and add context in the body so folks know what the meeting is?
+
+User: It's currently on Monday at 11am pst
+
+Agent: Yes of course. Looking forward to it! 
+
+",The user and agent are scheduling Enterpret workshops for the support analytics team. The agent is flexible with the timing and provides a link to his calendar for easy scheduling. The user appreciates the agent's assistance and suggests adding context to the calendar event. The agent agrees to the suggestion.,enterpret-figma,https://enterpret.slack.com/archives/C03RJBY6Q7N/p1706808599511669?thread_ts=1706808599.511669&cid=C03RJBY6Q7N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+737,5bb84cdc-bee9-5a84-abdb-969a3c4c66f4,https://dashboard.enterpret.com/enterpretinc/record/5bb84cdc-bee9-5a84-abdb-969a3c4c66f4,Slack,RecordTypeConversation,2024-01-31T15:30:08Z,eng,NEGATIVE,Keyword,Ability To Enhance Calendar Event Information,"User: These two tracked keywords feel unnecessarily overlapping - IMO we don't need both. If I archive one and it's used in a filter or saved search or dashboard, what will happen? Is there a way for me to visualize which tracked keywords are used where so I can see which is the one worth keeping?
+
+Agent: Molly Jane Nicholas Agreed that we do not need to keep both of these. Unfortunately there is not a straightforward way for you to do this in the product today
+I will run some analysis to see if I can programmatically pull that for you
+
+User: Thanks! Really not urgent at all - just noticed it as I was demoing / helping a team onboard.
+
+",The user suggests that two tracked keywords in Enterpret Inc feel unnecessarily overlapping and inquires about the consequences of archiving one. The agent agrees and acknowledges the lack of a straightforward solution. The agent promises to analyze the issue and provide a solution if possible. The user appreciates the agent's response but clarifies that the issue is not urgent.,enterpret-figma,https://enterpret.slack.com/archives/C03RJBY6Q7N/p1706715008572759?thread_ts=1706715008.572759&cid=C03RJBY6Q7N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+796,e2b96436-5271-5f03-a791-e1dd7ae4ec2a,https://dashboard.enterpret.com/enterpretinc/record/e2b96436-5271-5f03-a791-e1dd7ae4ec2a,Slack,RecordTypeConversation,2024-01-25T07:53:24Z,eng,NEGATIVE,,"Happy With Summaries, Issue With Taxonomy","Agent: _*[Duncan from PropellerAero]*_ Thoughts and Feedback about his use of Enterpret and Taxonomy -
+His journey as a Insight Consumer (PM) starts usually at Keywords -> Feedback Records -> Open in Search -> Scroll each feedback record cursorily -> Read through Summary. Post this he checks if the summary is relevant from his tribal knowledge, in many cases it is sparse insights that he is able to derive from this. Like <<STRICT_LINK>> he is sure that Issue with _*Ability To Export Data*_ and _*Need for Ground Control Points Assistance: Users are seeking Help With Ground Control Points 19*_ are not applicable in context of the Keyword here - Google Earth.
+All in all he is very happy with the Summaries direction as it is efficient for him to read multiple summaries, and extract meaningful insights from that as opposed to rabbit holing in Quantify land. One nit that he had though was that feedback generally starts from X records, but quotes show a very lesser number of feedback records Y, as part of summary (where Y<<<<X). His expectation was that it'd be aggregate validated. (X/X)
+His general user journey is Keywords -> Feedback Records -> Open in Search -> Scroll each feedback record cursorily -> Read through Summary. Post this, he nuances this as part of a Coda doc wherein he adds EG1, EG2, EG3 (examples of Summary quotes, or favorited Feedback records) in a doc and finalizes a breakdown doc, which can then be used by PMs/URs/Designers in his areas to pick up Discovery for. (SS attached)
+For Taxonomy -
+• Keywords are very useful, but there is a lot of keywords that are redundant or unusable due to being very broad in nature. There is no capability to hierarchically manage these.
+• He was pretty gung-ho about Reasons initially, but found them to be too broad in many cases, even if granular reasons are present, they are not top of mind due to the attribution of records towards broader reasons being really up the pecking order.
+• He had heard from the team on 'parent-child' relation of keywords and reasons as part of T3, wasn't sold on the idea, but when I took him through the broad idea of customisable nodes, which can have <<STRICT_LINK> to many relationship> , he mentioned he was excited about the direction as this might reduce the noise a lot.
+• He would want this relationship to be auto-generated as Admin'ing the Taxonomy(clean-up, merges, creations) is something he hates as a PM and would ideally need AI to fill that gap.
+• He commented that currently reasons and keywords operate in a standalone manner, but should be more contextual and mappable (again not by humans, but by AI)
+• He also mentioned that each feedback record, shows a lot of incorrect predictions for Categories, even when he starts from a completely different keywords in place and this is misleading and erodes his trust on the tool. (SS attached)
+I also updated him on Oracle and he was super excited for this, as , paraphrasing - ""For me to uncover insights by querying in natural language and see just not text, but list of Feedback records, visualizations, summaries in a single chat like interface is the direction which seems the most intuitive to me. Post having the relationships as part of Taxonomy improvements, I'm assuming the models would have a lot more context about Keywords, Reasons and their own relationships""
+He'd be happy to provide feedback from Alpha stages, if required.
+
+Agent: This is awesome Saurabh Arora, thanks for sharing! Did we get any insights on who consumes Duncan’s Coda doc and why?
+Was the call recorded by any chnce?
+
+Agent: This is consumed downstream by User researchers, Designers for discovery 
+
+Agent: Got it. Curious about why these researches/designers don’t feel the need to visit Enterpret to read feedback about what’s identified // read adjacent feedback.
+
+Agent: There is an additional layer of product sense and investigation required by Duncan, post finalizing the items he hands over to the research teams 
+
+","The user, Duncan, is satisfied with Enterpret's summary feature as it allows him to extract meaningful insights efficiently. However, he suggests improvements in the feedback record count and the contextual mapping of reasons and keywords. He also expresses a dislike for managing the taxonomy and suggests AI automation for this task. Duncan's Coda doc, which contains feedback summaries, is consumed by downstream user researchers and designers for discovery, indicating a need for a more intuitive interface.",product-feedback,https://enterpret.slack.com/archives/C0512PJLE4B/p1706169204160289?thread_ts=1706169204.160289&cid=C0512PJLE4B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+835,c47e46b1-2f9c-5bba-bcb9-b3aee4f7d347,https://dashboard.enterpret.com/enterpretinc/record/c47e46b1-2f9c-5bba-bcb9-b3aee4f7d347,Slack,RecordTypeConversation,2024-01-22T17:35:45Z,eng,POSITIVE,,Happy With The Progress,"Agent: Sean Kanamori The upload is in progress. Some data is starting to show up, and the rest should be appearing in the next few hours. I refreshed the Rate The Ride dashboard from the first upload and added new charts. Are there any other views you'd like to have on here?
+<<STRICT_LINK>>
+
+Agent: Sean Kanamori Great, I can go ahead and upload this. But if you would prefer to wait to get the additional fields, when we can also do that.
+
+User: You can go ahead and upload
+
+Agent: Sean Kanamori The upload is in progress. Some data is starting to show up, and the rest should be appearing in the next few hours. I refreshed the Rate The Ride dashboard from the first upload and added new charts. Are there any other views you'd like to have on here?
+<<STRICT_LINK>>
+
+User: Thank you! Looks good for right now.
+
+","The user approves the upload of data by the agent, indicating satisfaction with the current progress and the addition of new charts to the Rate The Ride dashboard.",enterpret-hopskipdrive,https://enterpret.slack.com/archives/C03GE0QCR46/p1705701090336169?thread_ts=1705701090.336169&cid=C03GE0QCR46,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+844,dd44cf29-c067-5246-9066-ecd47b5c1401,https://dashboard.enterpret.com/enterpretinc/record/dd44cf29-c067-5246-9066-ecd47b5c1401,Slack,RecordTypeConversation,2024-01-19T19:21:49Z,eng,NEUTRAL,,Ability To View Feedback Records For Specific Reason,"Agent: Great feedback from Matheson Kuo at Boll &amp; Branch: it would be helpful to be able to see which feedback records are associated with a specific *reason definition*, the same way that you always can for a *reason*. Example: You are editing a reason and trying to decide if you should break out a definition into its own reason. Sometimes it's pretty obvious from the definition name, but, here, `issue with defective sheets` seems like a boundary call. Being able to see which records (of 1,907 total) are being included under this reason on account of that definition would help you decide.
+
+Agent: I have struggled with this as well
+For example, Apollo wanted us to stop predicting certain reasons on records that were determined by an automated/pre-select option, but it wasnt clear from the definitions why that particular reason was applied to the record or which one we should remove to fix it
+
+","The user suggests an improvement for Enterpret Inc, requesting a feature to view feedback records associated with a specific reason definition. The agent agrees with the suggestion, citing their own experience of struggling with similar issues.",product-feedback,https://enterpret.slack.com/archives/C0512PJLE4B/p1705692109449299?thread_ts=1705692109.449299&cid=C0512PJLE4B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+847,ecc006e2-f1a5-5014-bbba-7f8b6d7ed450,https://dashboard.enterpret.com/enterpretinc/record/ecc006e2-f1a5-5014-bbba-7f8b6d7ed450,Slack,RecordTypeConversation,2024-01-19T16:55:10Z,eng,NEUTRAL,"Zendesk, Channel, Insights, Slack, Enterpret, Feedback, Tickets",Help With Finding Similar Feedback,"User: So, I have a zendesk ticket-id: 888974 and I want to see ""who else has similar feedback or hit similar issues; show me all feedback that's similar to see if issue is widespread"". Is this possible in enterpret?
+
+User: CC Michael Nguyen Jack Divita
+
+User: also, maybe we can move the enterpret bot posts to another channel? makes it harder to use this channel for qna
+
+Agent: Dev Akhawe this should be doable - but I am not seeing a ticket with that ID in Enterpret yet
+Is that ticket closed/met the criteria for syncing to us yet?
+
+User: hmm lets wait for a bit .. whats the highest ticket number you see? Maybe its just sync delay
+
+User: uid is <CREDIT_CARD>90
+
+User: Dev Akhawe I think we should have pillar level insights slack channels? maybe you can start one and lead the way with the enterpet bot?
+
+User: Yup do it. I don't want to announce it just yet til I have a few runs of it working correctly and any kinks are ironed out
+
+Agent: &gt; also, maybe we can move the enterpret bot posts to another channel? makes it harder to use this channel for qna
+:white_check_mark: just turned these off
+
+User: yeah, let's build it out and wait until you are comfortable with the entire ""system"" before we do comms. I really want to make sure you feel confident in the value and ease that it will get adopted.
+
+","The user inquires about the possibility of viewing similar feedback or issues in Enterpret Inc. The agent confirms that this feature should be doable but is unable to locate the user's ticket. The user suggests creating pillar level insights slack channels and moving the Enterpret bot posts to another channel, which the agent agrees to. They decide to wait until the system is fully functional and the user is comfortable before making any announcements.",enterpret-figma,https://enterpret.slack.com/archives/C03RJBY6Q7N/p1705683310570129?thread_ts=1705683310.570129&cid=C03RJBY6Q7N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+863,707442fa-bf42-5928-9286-bbae524a6a60,https://dashboard.enterpret.com/enterpretinc/record/707442fa-bf42-5928-9286-bbae524a6a60,Slack,RecordTypeConversation,2024-01-18T19:48:12Z,eng,NEUTRAL,"Data, Reason",Happy With New Functionalities,"User: I see the new reason creation! I can't wait to start using that. Also Matt Miller we do have Census so we can provide user data to you that way. Remind me again what you'd need from me?
+
+Agent: Yes! Eager to hear your thoughts on the new feature, and happy to connect to walk through it if that's helpful.
+
+User: Let me play around with it and get a feel for my feedback and questions.
+
+Agent: Tanner Hopkins <<STRICT_LINK>> are some guidelines for what the user and account data should look like. Let me know if you have any questions about this. It may be helpful just to jump on a call and set up the sync live.
+
+User: Thanks! I'll look it over.
+
+",The user expresses excitement about a new feature in Enterpret Inc and offers to provide user data through Census. The agent offers assistance in understanding the data requirements and suggests a live call to set up the sync. The user agrees to review the guidelines before proceeding.,enterpret-gather,https://enterpret.slack.com/archives/C044PMLGGCB/p1705607292037439?thread_ts=1705607292.037439&cid=C044PMLGGCB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+885,f5135838-5641-5aa8-8a00-f06414b0fd7d,https://dashboard.enterpret.com/enterpretinc/record/f5135838-5641-5aa8-8a00-f06414b0fd7d,Slack,RecordTypeConversation,2024-01-17T08:58:33Z,eng,NEUTRAL,,Ability To Add Ai-generated Summaries To Dashboard,"Agent: Molly from Figma:
+> 1. Just noticed I can drag/drop widgets now!!!! Game-changer!!!!! SO happy about this update!!!!!
+on Dashboards
+> Is there a way to pin the AI-generated summary to a dashboard? I’m finding that I want to use the dashboard as an “overview” over a longer period of time, while the slack subscription is more like “the latest”. For now, I’ve added the “top reasons” to the dashboard, but the text version is much nicer to read (imo).
+on summaries — validation on the value of summaries imo + the utility of summaries in Dashboards.
+> Is there a way to give feedback or train AI summarizing the findings? For example, in this summary,
+> “They also find the decision to include it in all editor seats or offer it separately for a monthly fee to be unfavorable” is in the “Dissatisfaction with Dev Mode Accessibility” section, but it seems like it would make more sense in the “Concerns about Dev Mode Pricing” or the “Unhappiness with Decision to Charge for Dev Mode” sections (which should also maybe be combined into a single section).
+more nuanced feedback on summaries
+<<STRICT_LINK>>
+
+","The user appreciates the new feature of drag/drop widgets in Enterpret Inc's product, indicating it as a game-changer. They also suggest improvements, such as the ability to pin AI-generated summaries to a dashboard and a more user-friendly feedback system for training AI. The user also provides feedback on the current AI summary, suggesting it could be more nuanced and categorized differently.",product-feedback,https://enterpret.slack.com/archives/C0512PJLE4B/p1705481913383659,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+889,52f5f1b7-56ef-58c6-9587-5ed119f816db,https://dashboard.enterpret.com/enterpretinc/record/52f5f1b7-56ef-58c6-9587-5ed119f816db,Slack,RecordTypeConversation,2024-01-16T21:58:40Z,eng,NEUTRAL,"Ai, Dashboard, Feedback, Keyword, Pricing, Reason, Reporting, Search, Summary, Filter",Ability To Add Ai-generated Summaries To Dashboard,"User: A few questions
+1. When I try to ""and"" together two keyword searches I'm seeing results that only come from one term. I've anded together ""annotation"" and ""dev mode"" as two tracked keywords, but the results in the screenshot dont' mention ""annotations"" at all. Am I misunderstanding how to setup the logic here? (BTW this ""and"" isn't what I ultimately want, just noticed the funky behaviour). <<STRICT_LINK> dashboard.>
+2. Is there a way to pin the AI-generated summary to a dashboard? I'm finding that I want to use the dashboard as an ""overview"" over a longer period of time, while the slack subscription is more like ""the latest"". For now, I've added the ""top reasons"" to the dashboard, but the text version is much nicer to read (imo).
+3. Is there a way to give feedback or train AI summarizing the findings? For example, in this summary, 
+ a. ""They also find the decision to include it in all editor seats or offer it separately for a monthly fee to be unfavorable"" is in the ""Dissatisfaction with Dev Mode Accessibility"" section, but it seems like it would make more sense in the ""Concerns about Dev Mode Pricing"" or the ""Unhappiness with Decision to Charge for Dev Mode"" sections (which should also maybe be combined into a single section).
+4. Just noticed I can drag/drop widgets now!!!! Game-changer!!!!! SO happy about this update!!!!!
+
+Agent: Hey Molly!
+&gt; Is there a way to pin the AI-generated summary to a dashboard? I’m finding that I want to use the dashboard as an “overview” over a longer period of time, while the slack subscription is more like “the latest”. For now, I’ve added the “top reasons” to the dashboard, but the text version is much nicer to read (imo).
+There isn’t a way to pin a summary to a Dashboard today, but this is exactly how we’re thinking about the near future! Super-glad that you’re finding summaries helpful, and would want to add them to Dashboards. We’re actively scoping this out.
+&gt; When I try to “and” together two keyword searches I’m seeing results that only come from one term. I’ve anded together “annotation” and “dev mode” as two tracked keywords, but the results in the screenshot dont’ mention “annotations” at all. Am I misunderstanding how to setup the logic here? (BTW this “and” isn’t what I ultimately want, just noticed the funky behaviour)
+The summary in the shared screenshot (image attached) and Search seems to talk about both dev-mode and annotations Molly, are you referring to the feedback cited from Discourse in this case?
+
+Agent: &gt; Is there a way to give feedback or train AI summarizing the findings? For example, in this summary,
+&gt; a. “They also find the decision to include it in all editor seats or offer it separately for a monthly fee to be unfavorable” is in the “Dissatisfaction with Dev Mode Accessibility” section, but it seems like it would make more sense in the “Concerns about Dev Mode Pricing” or the “Unhappiness with Decision to Charge for Dev Mode” sections (which should also maybe be combined into a single section).
+This is very helpful, thank you for sharing Molly! Here’s a <<STRICT_LINK> loom> on another avenue to share feedback on summaries from within the product.
+Training the AI based on shared feedback on summaries is not automated today, but we pay close attention to shared points for improvements to the model. Looking forward to your feedback!
+
+Agent: > Just noticed I can drag/drop widgets now!!!! Game-changer!!!!! SO happy about this update!!!!!
+Thank you!! Have shared this with the team. :orbit-love: :orbit-love:
+
+User: &gt; are you referring to the feedback cited from Discourse in this case?
+Yeah the discourse doesn't seem to mention annotations at all, just dev mode, so trying to understand how it made it through the filter. I was expecting the filter to filter only feedback that matches the filter criteria. Is that not what the filters do?
+
+","The user has several queries and suggestions about Enterpret Inc's product. They inquire about the logic behind keyword searches, the possibility of pinning AI-generated summaries to a dashboard, and the process of giving feedback to train the AI. The agent responds positively to the suggestions and promises to consider them for future updates.",enterpret-figma,https://enterpret.slack.com/archives/C03RJBY6Q7N/p1705442320755879?thread_ts=1705442320.755879&cid=C03RJBY6Q7N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+899,16774950-ad1b-587c-8398-ffeef41c4e82,https://dashboard.enterpret.com/enterpretinc/record/16774950-ad1b-587c-8398-ffeef41c4e82,Slack,RecordTypeConversation,2024-01-16T16:10:14Z,eng,NEGATIVE,,Issue With Setting Up Reports,"Agent: Alfonso Lopez The login issues from last week should be resolved now - if you run into the same thing or something similar please do let me know and we will dig further in to it
+
+User: Thank you!
+
+","The user reported login issues with Enterpret Inc, which the agent, Alfonso Lopez, confirmed to have resolved. The agent also assured further assistance if similar issues arise.",enterpret-notion,https://enterpret.slack.com/archives/C01P90H8K1S/p1705421414021639?thread_ts=1705421414.021639&cid=C01P90H8K1S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+903,99263f40-acca-5017-bbd8-195801b164a0,https://dashboard.enterpret.com/enterpretinc/record/99263f40-acca-5017-bbd8-195801b164a0,Slack,RecordTypeConversation,2024-01-16T07:25:52Z,eng,NEUTRAL,,Ability To Exclude Words In Tracked Keyword Creation,"Agent: &gt; Hi! I would like to inquire whether it is possible to exclude certain keywords when filtering Tracked Keywords?
+FYI Arnav Sharma Saurabh Arora
+
+",The user inquires about the possibility of excluding specific keywords when filtering Tracked Keywords in Enterpret Inc.,product-feedback,https://enterpret.slack.com/archives/C0512PJLE4B/p1705389952505069,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
