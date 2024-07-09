@@ -1,10 +1,21 @@
 import re
 
-import re
-def find_substring_indices(content, substring):
+def find_substring_indices(content: str, substring: str) -> tuple:
+    """
+    Find the indices of the first occurrence of a substring in content.
+
+    Args:
+        content (str): The content string to search within.
+        substring (str): The substring to find in the content.
+
+    Returns:
+        tuple: A tuple containing start index and end index of the substring in content.
+               Returns (None, None) if the substring is not found.
+    """
     # Remove quotes and trim whitespace from the substring
     substring = substring.replace('"', "'").strip(' "\'')
     content = content.replace('"', "'").strip(' "\'')
+    
     # Escape special characters in substring
     start_part = re.escape(substring.split()[0])
     end_part = re.escape(substring.split()[-1])
