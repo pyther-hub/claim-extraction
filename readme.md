@@ -13,6 +13,7 @@ The project focuses on preprocessing and analyzing conversations between a User 
 
 2. **Data Preparation:**
    - Transformed the dataframe into a list of record objects for easier manipulation.
+   - I didn't split the text into chunks because I could easily pass the entire context to the model. However, if that weren't possible, I would have split the text into user and agent chunks and passed them in a sliding window format. I would have also considered passing only the user messages since they mostly contained the claims.
    
 3. **Phrase Extraction Using GPT-3.5 Turbo:**
    - Utilized GPT-3.5 Turbo to extract phrases directly from content rather than relying on indices. 
