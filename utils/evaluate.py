@@ -1,5 +1,5 @@
-from gpt_model import ChatCompletionClient
-from prompts import SYSTEM_PROMPT, USER_PROMPT, N_SHOT_SYSTEM_PROMPT
+from ..gpt_model import ChatCompletionClient
+from utils.prompts import SYSTEM_PROMPT, USER_PROMPT, N_SHOT_SYSTEM_PROMPT
 import json
 from typing import List, Dict, Any
 

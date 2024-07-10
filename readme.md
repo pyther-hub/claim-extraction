@@ -61,6 +61,8 @@ The project encountered several challenges:
 - **Limited Dataset and Data Understanding:**
   -Initially, I had to drop a significant amount of content due to NaN values. I also manually reviewed the dataset to identify and remove unwanted characters, such as `<MAILTO>` tags and emojis.
 
+  - I had planned to back-translate the content to expand the dataset, but due to limited credits, I decided to abandon that idea.
+
 - **Difficulty with Indices and Prompt Structure:**
   - Spent considerable time struggling with obtaining indices and found that the model struggled with accurately finding indices from the prompt.
   - Instead, I retrieved specific portions of the phrases that referenced the particular claim. Using regex queries, I identified the start and end indexes, although achieving an exact match was challenging due to subtle changes made by the model, resulting in a few missing characters.
